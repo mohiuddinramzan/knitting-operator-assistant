@@ -1,0 +1,1410 @@
+{
+"app.name": {
+"en": "Knitting Operator Assistant",
+"bn": "নিটিং অপারেটর অ্যাসিস্ট্যান্ট"
+},
+"app.updateReady": {
+"en": "New version downloaded. Close and reopen the app to use it.",
+"bn": "নতুন সংস্করণ নামানো হয়েছে। ব্যবহার করতে অ্যাপ বন্ধ করে আবার খুলুন।"
+},
+"nav.home": {
+"en": "Home",
+"bn": "হোম"
+},
+"nav.defects": {
+"en": "Defects",
+"bn": "ত্রুটি"
+},
+"nav.calc": {
+"en": "Calculator",
+"bn": "ক্যালকুলেটর"
+},
+"nav.shift": {
+"en": "Shift Book",
+"bn": "শিফট বুক"
+},
+"nav.more": {
+"en": "More",
+"bn": "আরও"
+},
+"common.search": {
+"en": "Search",
+"bn": "খুঁজুন"
+},
+"common.confirm": {
+"en": "Confirm",
+"bn": "নিশ্চিত করুন"
+},
+"common.cancel": {
+"en": "Cancel",
+"bn": "বাতিল"
+},
+"common.close": {
+"en": "Close",
+"bn": "বন্ধ করুন"
+},
+"common.unit": {
+"en": "Unit",
+"bn": "একক"
+},
+"common.all": {
+"en": "All",
+"bn": "সব"
+},
+"common.edit": {
+"en": "Edit",
+"bn": "সম্পাদনা"
+},
+"common.save": {
+"en": "Save",
+"bn": "সংরক্ষণ"
+},
+"common.saved": {
+"en": "Saved",
+"bn": "সংরক্ষিত হয়েছে"
+},
+"common.delete": {
+"en": "Delete",
+"bn": "মুছুন"
+},
+"common.deleted": {
+"en": "Deleted",
+"bn": "মুছে ফেলা হয়েছে"
+},
+"common.add": {
+"en": "Add",
+"bn": "যোগ করুন"
+},
+"common.back": {
+"en": "Back",
+"bn": "পেছনে"
+},
+"common.cannotUndo": {
+"en": "This cannot be undone.",
+"bn": "এটি আর ফেরানো যাবে না।"
+},
+"safety.label": {
+"en": "Safety",
+"bn": "নিরাপত্তা"
+},
+"err.notfound": {
+"en": "Not found.",
+"bn": "পাওয়া যায়নি।"
+},
+"err.generic": {
+"en": "Something went wrong.",
+"bn": "কিছু একটা সমস্যা হয়েছে।"
+},
+"err.storage": {
+"en": "Storage is not available or failed. Your data may not be saved.",
+"bn": "স্টোরেজ পাওয়া যাচ্ছে না বা ব্যর্থ হয়েছে। আপনার তথ্য সংরক্ষিত নাও হতে পারে।"
+},
+"err.storageBanner": {
+"en": "Local storage is unavailable (private mode or blocked). You can read content, but nothing can be saved.",
+"bn": "লোকাল স্টোরেজ পাওয়া যাচ্ছে না (প্রাইভেট মোড বা বন্ধ)। আপনি পড়তে পারবেন, কিন্তু কিছু সংরক্ষণ হবে না।"
+},
+"err.required": {
+"en": "This field is required.",
+"bn": "এই ঘরটি আবশ্যক।"
+},
+"err.invalid": {
+"en": "Enter a valid number.",
+"bn": "সঠিক সংখ্যা লিখুন।"
+},
+"err.negative": {
+"en": "Must not be negative.",
+"bn": "ঋণাত্মক হতে পারবে না।"
+},
+"err.zero": {
+"en": "Must be greater than zero.",
+"bn": "শূন্যের বেশি হতে হবে।"
+},
+"err.unit": {
+"en": "Choose a valid unit.",
+"bn": "সঠিক একক বেছে নিন।"
+},
+"err.range": {
+"en": "Value is out of the allowed range.",
+"bn": "মান অনুমোদিত সীমার বাইরে।"
+},
+"err.date": {
+"en": "Enter a valid date.",
+"bn": "সঠিক তারিখ দিন।"
+},
+"home.title": {
+"en": "What do you need today?",
+"bn": "আজ কী প্রয়োজন?"
+},
+"home.searchPh": {
+"en": "Search defects, terms, lessons, notes…",
+"bn": "ত্রুটি, শব্দ, পাঠ, নোট খুঁজুন…"
+},
+"home.defects": {
+"en": "Fabric Defect Solver",
+"bn": "কাপড়ের ত্রুটি সমাধান"
+},
+"home.setup": {
+"en": "Machine Setup Guide",
+"bn": "মেশিন সেটআপ গাইড"
+},
+"home.calc": {
+"en": "Calculator Center",
+"bn": "ক্যালকুলেটর সেন্টার"
+},
+"home.shift": {
+"en": "Production & Shift Book",
+"bn": "উৎপাদন ও শিফট বুক"
+},
+"home.maint": {
+"en": "Maintenance Checklist",
+"bn": "রক্ষণাবেক্ষণ চেকলিস্ট"
+},
+"home.learn": {
+"en": "Learning Center",
+"bn": "শেখার কেন্দ্র"
+},
+"home.dict": {
+"en": "Dictionary",
+"bn": "অভিধান"
+},
+"home.notebook": {
+"en": "Machine Notebook",
+"bn": "মেশিন নোটবুক"
+},
+"home.backup": {
+"en": "Backup and Restore",
+"bn": "ব্যাকআপ ও রিস্টোর"
+},
+"home.backupDue": {
+"en": "You have saved data but no recent backup.",
+"bn": "আপনার সংরক্ষিত তথ্য আছে কিন্তু সাম্প্রতিক ব্যাকআপ নেই।"
+},
+"home.backupNow": {
+"en": "Back up now",
+"bn": "এখনই ব্যাকআপ নিন"
+},
+"home.safetyFoot": {
+"en": "Never touch moving parts. Stop and isolate the machine first. Follow factory SOP.",
+"bn": "চলন্ত অংশ ধরবেন না। আগে মেশিন বন্ধ ও আইসোলেট করুন। কারখানার SOP মানুন।"
+},
+"search.none": {
+"en": "No results.",
+"bn": "কোনো ফলাফল নেই।"
+},
+"search.type.defect": {
+"en": "Defect",
+"bn": "ত্রুটি"
+},
+"search.type.guide": {
+"en": "Machine guide",
+"bn": "মেশিন গাইড"
+},
+"search.type.dict": {
+"en": "Dictionary",
+"bn": "অভিধান"
+},
+"search.type.lesson": {
+"en": "Lesson",
+"bn": "পাঠ"
+},
+"search.type.note": {
+"en": "Note",
+"bn": "নোট"
+},
+"search.type.machine": {
+"en": "Machine",
+"bn": "মেশিন"
+},
+"fabric.single-jersey": {
+"en": "Single Jersey",
+"bn": "সিঙ্গেল জার্সি"
+},
+"fabric.rib": {
+"en": "Rib",
+"bn": "রিব"
+},
+"fabric.interlock": {
+"en": "Interlock",
+"bn": "ইন্টারলক"
+},
+"fabric.fleece": {
+"en": "Fleece",
+"bn": "ফ্লিস"
+},
+"fabric.other": {
+"en": "Other",
+"bn": "অন্যান্য"
+},
+"def.searchPh": {
+"en": "Search defects (English or বাংলা)…",
+"bn": "ত্রুটি খুঁজুন (English বা বাংলা)…"
+},
+"def.custom": {
+"en": "Custom",
+"bn": "নিজের তৈরি"
+},
+"def.none": {
+"en": "No defects match.",
+"bn": "কোনো ত্রুটি মেলেনি।"
+},
+"def.bookmark": {
+"en": "Bookmark",
+"bn": "বুকমার্ক"
+},
+"def.bookmarked": {
+"en": "Bookmarked",
+"bn": "বুকমার্ক করা"
+},
+"def.add": {
+"en": "Add custom defect",
+"bn": "নিজের ত্রুটি যোগ করুন"
+},
+"def.recent": {
+"en": "Recently viewed",
+"bn": "সম্প্রতি দেখা"
+},
+"def.disclaimer": {
+"en": "Causes listed are possible causes only. Confirm by inspection and follow your factory SOP. No fix works for every machine.",
+"bn": "এখানের কারণগুলো শুধু সম্ভাব্য কারণ। পরীক্ষা করে নিশ্চিত হন এবং কারখানার SOP মানুন। কোনো সমাধান সব মেশিনে কাজ করে না।"
+},
+"def.deleteTitle": {
+"en": "Delete this defect?",
+"bn": "এই ত্রুটি মুছবেন?"
+},
+"def.deleteMsg": {
+"en": "The custom defect entry will be removed.",
+"bn": "আপনার তৈরি ত্রুটির এন্ট্রি মুছে যাবে।"
+},
+"def.symptoms": {
+"en": "Observable symptoms",
+"bn": "দৃশ্যমান লক্ষণ"
+},
+"def.causes": {
+"en": "Possible causes",
+"bn": "সম্ভাব্য কারণ"
+},
+"def.causesNote": {
+"en": "These are possibilities, not confirmed causes.",
+"bn": "এগুলো সম্ভাবনা, নিশ্চিত কারণ নয়।"
+},
+"def.diagnostic": {
+"en": "Safe diagnostic checklist",
+"bn": "নিরাপদ নির্ণয় চেকলিস্ট"
+},
+"def.inspection": {
+"en": "Recommended inspection steps",
+"bn": "পরিদর্শনের ধাপ"
+},
+"def.actions": {
+"en": "Corrective actions",
+"bn": "সংশোধনমূলক ব্যবস্থা"
+},
+"def.verify": {
+"en": "Verification after correction",
+"bn": "সংশোধনের পর যাচাই"
+},
+"def.related": {
+"en": "Related defects",
+"bn": "সম্পর্কিত ত্রুটি"
+},
+"def.notes": {
+"en": "Personal notes",
+"bn": "ব্যক্তিগত নোট"
+},
+"def.notesLabel": {
+"en": "Your notes",
+"bn": "আপনার নোট"
+},
+"def.confirmed": {
+"en": "Confirmed cause (only if verified)",
+"bn": "নিশ্চিত কারণ (শুধু যাচাই হলে)"
+},
+"def.confirmedHint": {
+"en": "Write here only a cause you have actually confirmed on your machine.",
+"bn": "শুধু আপনার মেশিনে যে কারণ সত্যিই নিশ্চিত হয়েছে তা লিখুন।"
+},
+"def.f.name": {
+"en": "Defect name",
+"bn": "ত্রুটির নাম"
+},
+"def.f.cat": {
+"en": "Category",
+"bn": "বিভাগ"
+},
+"def.f.oneLine": {
+"en": "One item per line",
+"bn": "প্রতি লাইনে একটি করে"
+},
+"def.f.fabrics": {
+"en": "Fabric types",
+"bn": "কাপড়ের ধরন"
+},
+"def.customSafety": {
+"en": "Do not write instructions that require touching moving parts. Stop and isolate the machine first.",
+"bn": "চলন্ত অংশ ধরার নির্দেশ লিখবেন না। আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+},
+"mach.guides": {
+"en": "Machine component guides",
+"bn": "মেশিনের অংশ গাইড"
+},
+"mach.kind.component": {
+"en": "Component",
+"bn": "অংশ"
+},
+"mach.kind.fabric": {
+"en": "Fabric setup",
+"bn": "কাপড়ের সেটআপ"
+},
+"mach.safety": {
+"en": "Educational content only. Stop and isolate the machine per approved procedure before any internal inspection. Follow the manufacturer's manual and factory SOP.",
+"bn": "শুধু শিক্ষামূলক। অভ্যন্তরীণ পরিদর্শনের আগে অনুমোদিত নিয়মে মেশিন বন্ধ ও আইসোলেট করুন। প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন।"
+},
+"mach.profiles": {
+"en": "Machine profiles",
+"bn": "মেশিন প্রোফাইল"
+},
+"mach.add": {
+"en": "Add machine",
+"bn": "মেশিন যোগ করুন"
+},
+"mach.edit": {
+"en": "Edit machine",
+"bn": "মেশিন সম্পাদনা"
+},
+"mach.none": {
+"en": "No machines yet. Add your first machine profile.",
+"bn": "এখনো মেশিন নেই। প্রথম মেশিন প্রোফাইল যোগ করুন।"
+},
+"mach.needlesShort": {
+"en": "needles",
+"bn": "সুই"
+},
+"mach.deleteTitle": {
+"en": "Delete this machine?",
+"bn": "এই মেশিন মুছবেন?"
+},
+"mach.deleteMsg": {
+"en": "The profile is removed. Existing shift and maintenance records keep the machine ID text.",
+"bn": "প্রোফাইল মুছে যাবে। আগের শিফট ও রক্ষণাবেক্ষণ রেকর্ডে মেশিন আইডি লেখা থাকবে।"
+},
+"mach.f.id": {
+"en": "Machine ID",
+"bn": "মেশিন আইডি"
+},
+"mach.f.fabric": {
+"en": "Fabric type",
+"bn": "কাপড়ের ধরন"
+},
+"mach.f.diameter": {
+"en": "Diameter (inch)",
+"bn": "ব্যাস (ইঞ্চি)"
+},
+"mach.f.gauge": {
+"en": "Gauge (needles per inch)",
+"bn": "গেজ (প্রতি ইঞ্চি সুই)"
+},
+"mach.f.needles": {
+"en": "Needle count",
+"bn": "সুইয়ের সংখ্যা"
+},
+"mach.f.feeders": {
+"en": "Feeder count",
+"bn": "ফিডার সংখ্যা"
+},
+"mach.f.notes": {
+"en": "Notes",
+"bn": "নোট"
+},
+"mach.dup": {
+"en": "A machine with this ID already exists.",
+"bn": "এই আইডির মেশিন আগে থেকেই আছে।"
+},
+"mach.renameNote": {
+"en": "Old records keep the previous machine ID text.",
+"bn": "পুরোনো রেকর্ডে আগের মেশিন আইডি লেখা থাকবে।"
+},
+"mach.logWork": {
+"en": "Log maintenance",
+"bn": "রক্ষণাবেক্ষণ লিখুন"
+},
+"mach.notesBtn": {
+"en": "Notes ({n})",
+"bn": "নোট ({n})"
+},
+"mach.history": {
+"en": "Maintenance history",
+"bn": "রক্ষণাবেক্ষণের ইতিহাস"
+},
+"mach.noHistory": {
+"en": "No maintenance records for this machine.",
+"bn": "এই মেশিনের কোনো রক্ষণাবেক্ষণ রেকর্ড নেই।"
+},
+"maint.safety": {
+"en": "Stop the machine and apply approved isolation before internal checks. Use only the lubricant and amount approved by the manufacturer/factory.",
+"bn": "ভেতরের পরীক্ষার আগে মেশিন বন্ধ করে অনুমোদিত আইসোলেশন করুন। শুধু প্রস্তুতকারক/কারখানা অনুমোদিত লুব্রিক্যান্ট ও পরিমাণ ব্যবহার করুন।"
+},
+"maint.tab.lists": {
+"en": "Checklists",
+"bn": "চেকলিস্ট"
+},
+"maint.tab.log": {
+"en": "Log entry",
+"bn": "এন্ট্রি লিখুন"
+},
+"maint.tab.history": {
+"en": "History",
+"bn": "ইতিহাস"
+},
+"maint.items": {
+"en": "{n} items",
+"bn": "{n}টি আইটেম"
+},
+"maint.run": {
+"en": "Run checklist",
+"bn": "চেকলিস্ট চালান"
+},
+"maint.editItems": {
+"en": "Edit items",
+"bn": "আইটেম সম্পাদনা"
+},
+"maint.machinePh": {
+"en": "Machine ID",
+"bn": "মেশিন আইডি"
+},
+"maint.saveRun": {
+"en": "Save checklist run",
+"bn": "চেকলিস্ট সংরক্ষণ"
+},
+"maint.newItem": {
+"en": "Add your own item",
+"bn": "নিজের আইটেম যোগ করুন"
+},
+"maint.newItemPh": {
+"en": "New checklist item",
+"bn": "নতুন চেকলিস্ট আইটেম"
+},
+"maint.markSafety": {
+"en": "Mark as safety-critical",
+"bn": "নিরাপত্তা-সংক্রান্ত হিসেবে চিহ্নিত করুন"
+},
+"maint.deleteItem": {
+"en": "Remove this item?",
+"bn": "এই আইটেম সরাবেন?"
+},
+"maint.deleteRec": {
+"en": "Delete this record?",
+"bn": "এই রেকর্ড মুছবেন?"
+},
+"maint.none": {
+"en": "No records yet.",
+"bn": "এখনো কোনো রেকর্ড নেই।"
+},
+"maint.pcs": {
+"en": "pcs",
+"bn": "টি"
+},
+"maint.f.type": {
+"en": "Entry type",
+"bn": "এন্ট্রির ধরন"
+},
+"maint.f.date": {
+"en": "Date",
+"bn": "তারিখ"
+},
+"maint.f.machine": {
+"en": "Machine ID",
+"bn": "মেশিন আইডি"
+},
+"maint.f.title": {
+"en": "Issue / work done",
+"bn": "সমস্যা / কাজ"
+},
+"maint.f.reason": {
+"en": "Downtime reason",
+"bn": "ডাউনটাইমের কারণ"
+},
+"maint.f.minutes": {
+"en": "Downtime (minutes)",
+"bn": "ডাউনটাইম (মিনিট)"
+},
+"maint.f.count": {
+"en": "Needles/sinkers replaced",
+"bn": "বদলানো সুই/সিঙ্কার"
+},
+"maint.f.countHint": {
+"en": "Leave empty if none.",
+"bn": "না থাকলে ফাঁকা রাখুন।"
+},
+"maint.f.position": {
+"en": "Position / location",
+"bn": "অবস্থান"
+},
+"maint.f.note": {
+"en": "Notes",
+"bn": "নোট"
+},
+"maint.type.issue": {
+"en": "Issue",
+"bn": "সমস্যা"
+},
+"maint.type.downtime": {
+"en": "Downtime",
+"bn": "ডাউনটাইম"
+},
+"maint.type.inspection": {
+"en": "Needle/sinker inspection",
+"bn": "সুই/সিঙ্কার পরিদর্শন"
+},
+"maint.type.lubrication": {
+"en": "Lubrication",
+"bn": "লুব্রিকেশন"
+},
+"maint.type.checklist": {
+"en": "Checklist",
+"bn": "চেকলিস্ট"
+},
+"calc.disclaimer": {
+"en": "Results are calculations from your inputs. Estimates are not exact; check machine-specific data and factory standards.",
+"bn": "ফলাফল আপনার দেওয়া তথ্যের হিসাব। অনুমান নিখুঁত নয়; মেশিনের নির্দিষ্ট তথ্য ও কারখানার মান দেখুন।"
+},
+"calc.steps": {
+"en": "Steps",
+"bn": "ধাপসমূহ"
+},
+"calc.save": {
+"en": "Save to history",
+"bn": "হিস্ট্রিতে সংরক্ষণ"
+},
+"calc.history": {
+"en": "Saved calculations",
+"bn": "সংরক্ষিত হিসাব"
+},
+"calc.reuse": {
+"en": "Reuse",
+"bn": "আবার ব্যবহার"
+},
+"calc.deleteTitle": {
+"en": "Delete this saved calculation?",
+"bn": "এই সংরক্ষিত হিসাব মুছবেন?"
+},
+"calc.noHistory": {
+"en": "No saved calculations yet.",
+"bn": "এখনো কোনো সংরক্ষিত হিসাব নেই।"
+},
+"calc.formula": {
+"en": "Formula",
+"bn": "সূত্র"
+},
+"calc.calculate": {
+"en": "Calculate",
+"bn": "হিসাব করুন"
+},
+"calc.example": {
+"en": "Fill example",
+"bn": "উদাহরণ দিন"
+},
+"calc.reset": {
+"en": "Reset",
+"bn": "রিসেট"
+},
+"calc.estimate": {
+"en": "Estimate",
+"bn": "অনুমান"
+},
+"calc.gsm": {
+"en": "GSM Calculator",
+"bn": "জিএসএম ক্যালকুলেটর"
+},
+"calc.gsm.mass": {
+"en": "Sample mass",
+"bn": "নমুনার ওজন"
+},
+"calc.gsm.area": {
+"en": "Sample area",
+"bn": "নমুনার ক্ষেত্রফল"
+},
+"calc.gsm.formula": {
+"en": "GSM = mass (g) ÷ area (m²)",
+"bn": "GSM = ওজন (g) ÷ ক্ষেত্রফল (m²)"
+},
+"calc.gsm.s1": {
+"en": "Mass: {v} {u} = {g} g",
+"bn": "ওজন: {v} {u} = {g} g"
+},
+"calc.gsm.s2": {
+"en": "Area: {v} {u} = {m} m²",
+"bn": "ক্ষেত্রফল: {v} {u} = {m} m²"
+},
+"calc.gsm.s3": {
+"en": "GSM = {g} ÷ {m} = {r}",
+"bn": "GSM = {g} ÷ {m} = {r}"
+},
+"calc.gsm.note": {
+"en": "Measure the sample the way your factory requires (for example relaxed fabric) and compare with the style tolerance.",
+"bn": "কারখানার নিয়ম অনুযায়ী (যেমন রিল্যাক্স করা কাপড়) নমুনা মাপুন এবং স্টাইলের সহনশীলতার সাথে তুলনা করুন।"
+},
+"calc.fabric": {
+"en": "Fabric Weight Calculator",
+"bn": "কাপড়ের ওজন ক্যালকুলেটর"
+},
+"calc.fabric.gsm": {
+"en": "GSM",
+"bn": "GSM"
+},
+"calc.fabric.length": {
+"en": "Length",
+"bn": "দৈর্ঘ্য"
+},
+"calc.fabric.width": {
+"en": "Width",
+"bn": "প্রস্থ"
+},
+"calc.fabric.formula": {
+"en": "Mass = GSM × length (m) × width (m)",
+"bn": "ওজন = GSM × দৈর্ঘ্য (m) × প্রস্থ (m)"
+},
+"calc.fabric.s1": {
+"en": "Length {l} m × width {w} m = area {a} m²",
+"bn": "দৈর্ঘ্য {l} m × প্রস্থ {w} m = ক্ষেত্রফল {a} m²"
+},
+"calc.fabric.s2": {
+"en": "Mass = {g} g = {kg} kg",
+"bn": "ওজন = {g} g = {kg} kg"
+},
+"calc.fabric.note": {
+"en": "Uses the width you enter (for example open or tubular width as measured).",
+"bn": "আপনার দেওয়া প্রস্থ ব্যবহার হয় (যেমন মাপা খোলা বা টিউবুলার প্রস্থ)।"
+},
+"calc.target": {
+"en": "Target vs Actual",
+"bn": "লক্ষ্য বনাম প্রকৃত"
+},
+"calc.target.target": {
+"en": "Target production",
+"bn": "লক্ষ্য উৎপাদন"
+},
+"calc.target.actual": {
+"en": "Actual production",
+"bn": "প্রকৃত উৎপাদন"
+},
+"calc.target.unit": {
+"en": "Unit (kg, m, pcs…)",
+"bn": "একক (kg, m, pcs…)"
+},
+"calc.target.unitHint": {
+"en": "Target and actual must use the same unit.",
+"bn": "লক্ষ্য ও প্রকৃত একই এককে দিন।"
+},
+"calc.target.formula": {
+"en": "Achievement % = actual ÷ target × 100",
+"bn": "অর্জন % = প্রকৃত ÷ লক্ষ্য × ১০০"
+},
+"calc.target.zero": {
+"en": "n/a",
+"bn": "প্রযোজ্য নয়"
+},
+"calc.target.zeroMsg": {
+"en": "Target is zero, so achievement % is not calculated.",
+"bn": "লক্ষ্য শূন্য, তাই অর্জন % হিসাব করা হয়নি।"
+},
+"calc.target.s1": {
+"en": "{a} ÷ {t} × 100 = {p} %",
+"bn": "{a} ÷ {t} × ১০০ = {p} %"
+},
+"calc.target.s2": {
+"en": "Difference (actual − target): {d} {u}",
+"bn": "পার্থক্য (প্রকৃত − লক্ষ্য): {d} {u}"
+},
+"calc.target.s3": {
+"en": "Remaining target: {r} {u}",
+"bn": "বাকি লক্ষ্য: {r} {u}"
+},
+"calc.target.s4": {
+"en": "Above target by: {s} {u}",
+"bn": "লক্ষ্যের চেয়ে বেশি: {s} {u}"
+},
+"calc.prod": {
+"en": "RPM & Production Estimate",
+"bn": "আরপিএম ও উৎপাদন অনুমান"
+},
+"calc.prod.rpm": {
+"en": "Machine RPM",
+"bn": "মেশিন RPM"
+},
+"calc.prod.feeders": {
+"en": "Number of feeders",
+"bn": "ফিডার সংখ্যা"
+},
+"calc.prod.needles": {
+"en": "Total needles",
+"bn": "মোট সুই"
+},
+"calc.prod.needlesHint": {
+"en": "Needles knitting at the machine (cylinder + dial for rib/interlock).",
+"bn": "মেশিনের মোট সুই (রিব/ইন্টারলকে সিলিন্ডার + ডায়াল)।"
+},
+"calc.prod.sl": {
+"en": "Stitch length (mm)",
+"bn": "স্টিচ লেংথ (মিমি)"
+},
+"calc.prod.slHint": {
+"en": "Yarn length per loop, from your style record.",
+"bn": "প্রতি লুপে সুতার দৈর্ঘ্য, স্টাইল রেকর্ড থেকে।"
+},
+"calc.prod.count": {
+"en": "Yarn count",
+"bn": "সুতার কাউন্ট"
+},
+"calc.prod.system": {
+"en": "Count system",
+"bn": "কাউন্ট পদ্ধতি"
+},
+"calc.prod.share": {
+"en": "Needle share per feeder (%)",
+"bn": "প্রতি ফিডারে সুইয়ের অংশ (%)"
+},
+"calc.prod.shareHint": {
+"en": "100 if every needle knits at every feeder. Some structures use fewer; check the machine manual.",
+"bn": "প্রতি ফিডারে সব সুই বুনলে ১০০। কিছু গঠনে কম হয়; ম্যানুয়াল দেখুন।"
+},
+"calc.prod.eff": {
+"en": "Efficiency (%)",
+"bn": "দক্ষতা (%)"
+},
+"calc.prod.effHint": {
+"en": "Empty = 100 % (no losses assumed).",
+"bn": "ফাঁকা = ১০০% (কোনো ক্ষতি ধরা হয়নি)।"
+},
+"calc.prod.hours": {
+"en": "Hours",
+"bn": "ঘণ্টা"
+},
+"calc.prod.hoursHint": {
+"en": "Empty = 1 hour.",
+"bn": "ফাঁকা = ১ ঘণ্টা।"
+},
+"calc.prod.cpc": {
+"en": "Courses per cm (optional)",
+"bn": "প্রতি সেমিতে কোর্স (ঐচ্ছিক)"
+},
+"calc.prod.cpcHint": {
+"en": "Needed only for fabric length per hour.",
+"bn": "শুধু ঘণ্টায় কাপড়ের দৈর্ঘ্যের জন্য লাগে।"
+},
+"calc.prod.formula": {
+"en": "Yarn per revolution = feeders × needles × share × stitch length; kg/h = yarn length ÷ (metres per gram of the yarn) × RPM × 60 × efficiency",
+"bn": "প্রতি ঘূর্ণনে সুতা = ফিডার × সুই × অংশ × স্টিচ লেংথ; kg/h = সুতার দৈর্ঘ্য ÷ (সুতার মিটার প্রতি গ্রাম) × RPM × ৬০ × দক্ষতা"
+},
+"calc.prod.s1": {
+"en": "Yarn per revolution = {m} m",
+"bn": "প্রতি ঘূর্ণনে সুতা = {m} মি"
+},
+"calc.prod.s2": {
+"en": "Yarn per hour at {e} % efficiency = {m} m",
+"bn": "{e} % দক্ষতায় প্রতি ঘণ্টায় সুতা = {m} মি"
+},
+"calc.prod.s3": {
+"en": "≈ {kg} kg/h; for {h} h ≈ {t} kg",
+"bn": "≈ {kg} kg/ঘণ্টা; {h} ঘণ্টায় ≈ {t} kg"
+},
+"calc.prod.noLen": {
+"en": "Fabric length per hour not calculated (courses per cm not given).",
+"bn": "ঘণ্টায় কাপড়ের দৈর্ঘ্য হিসাব হয়নি (প্রতি সেমিতে কোর্স দেওয়া হয়নি)।"
+},
+"calc.prod.s4": {
+"en": "Fabric ≈ {m} m/h; for the period ≈ {t} m",
+"bn": "কাপড় ≈ {m} মি/ঘণ্টা; পুরো সময়ে ≈ {t} মি"
+},
+"calc.prod.assume1": {
+"en": "Estimate only: assumes each counted needle forms one loop at each feeder pass (no tuck or miss).",
+"bn": "শুধু অনুমান: ধরা হয়েছে প্রতি ফিডারে গণনা করা প্রতিটি সুই একটি লুপ গড়ে (টাক বা মিস নেই)।"
+},
+"calc.prod.assume2": {
+"en": "Lycra or other extra yarns are not included.",
+"bn": "লাইক্রা বা অতিরিক্ত সুতা ধরা হয়নি।"
+},
+"calc.prod.assume3": {
+"en": "Real output differs with machine design, stoppages and fabric structure. Not an exact result.",
+"bn": "প্রকৃত উৎপাদন মেশিনের নকশা, বন্ধ থাকা ও কাপড়ের গঠনের উপর ভিন্ন হয়। এটি নিখুঁত ফলাফল নয়।"
+},
+"calc.yarn": {
+"en": "Yarn Consumption",
+"bn": "সুতা ব্যবহার"
+},
+"calc.yarn.fabric": {
+"en": "Fabric weight (kg)",
+"bn": "কাপড়ের ওজন (kg)"
+},
+"calc.yarn.yarn": {
+"en": "Yarn used (kg)",
+"bn": "ব্যবহৃত সুতা (kg)"
+},
+"calc.yarn.basis": {
+"en": "Measurement basis",
+"bn": "পরিমাপের ভিত্তি"
+},
+"calc.yarn.basisHint": {
+"en": "Choose whether your numbers are measured or theoretical estimates.",
+"bn": "আপনার সংখ্যা মাপা না তাত্ত্বিক অনুমান তা বেছে নিন।"
+},
+"calc.yarn.measured": {
+"en": "Measured",
+"bn": "মাপা"
+},
+"calc.yarn.theoretical": {
+"en": "Theoretical estimate",
+"bn": "তাত্ত্বিক অনুমান"
+},
+"calc.yarn.formula": {
+"en": "Ratio = yarn ÷ fabric; difference = yarn − fabric",
+"bn": "অনুপাত = সুতা ÷ কাপড়; পার্থক্য = সুতা − কাপড়"
+},
+"calc.yarn.s1": {
+"en": "Ratio = {y} ÷ {f} = {r}",
+"bn": "অনুপাত = {y} ÷ {f} = {r}"
+},
+"calc.yarn.s2": {
+"en": "Difference = {d} kg ({pf} % of fabric, {py} % of yarn)",
+"bn": "পার্থক্য = {d} kg (কাপড়ের {pf} %, সুতার {py} %)"
+},
+"calc.yarn.note": {
+"en": "The result is labelled with the basis you chose. Theoretical values are not measured results.",
+"bn": "ফলাফলে আপনার বেছে নেওয়া ভিত্তি লেখা থাকে। তাত্ত্বিক মান মাপা ফলাফল নয়।"
+},
+"calc.mach": {
+"en": "Machine Reference",
+"bn": "মেশিন রেফারেন্স"
+},
+"calc.mach.dia": {
+"en": "Diameter (inch)",
+"bn": "ব্যাস (ইঞ্চি)"
+},
+"calc.mach.gauge": {
+"en": "Gauge (needles per inch)",
+"bn": "গেজ (প্রতি ইঞ্চি সুই)"
+},
+"calc.mach.needles": {
+"en": "Needle count (from machine plate)",
+"bn": "সুইয়ের সংখ্যা (মেশিন প্লেট থেকে)"
+},
+"calc.mach.feeders": {
+"en": "Feeders",
+"bn": "ফিডার"
+},
+"calc.mach.rpm": {
+"en": "RPM",
+"bn": "RPM"
+},
+"calc.mach.formula": {
+"en": "Needles ≈ π × diameter × gauge; surface speed = π × diameter × RPM",
+"bn": "সুই ≈ π × ব্যাস × গেজ; পৃষ্ঠের গতি = π × ব্যাস × RPM"
+},
+"calc.mach.needlesUnit": {
+"en": "needles",
+"bn": "সুই"
+},
+"calc.mach.s1": {
+"en": "Approximate needles from diameter and gauge: {n}",
+"bn": "ব্যাস ও গেজ থেকে আনুমানিক সুই: {n}"
+},
+"calc.mach.s2": {
+"en": "Entered count differs from the approximation by {p} %",
+"bn": "দেওয়া সংখ্যা আনুমানিক মানের থেকে {p} % ভিন্ন"
+},
+"calc.mach.s3": {
+"en": "Cylinder surface speed ≈ {v} m/min",
+"bn": "সিলিন্ডারের পৃষ্ঠের গতি ≈ {v} মি/মিনিট"
+},
+"calc.mach.s4": {
+"en": "Needle-feeder positions per revolution: {v}",
+"bn": "প্রতি ঘূর্ণনে সুই-ফিডার অবস্থান: {v}"
+},
+"calc.mach.s5": {
+"en": "Feeder passes per hour: {v}",
+"bn": "প্রতি ঘণ্টায় ফিডার পাস: {v}"
+},
+"calc.mach.note": {
+"en": "The needle estimate is a geometric approximation. Use the machine plate or manual for the true count.",
+"bn": "সুইয়ের হিসাব জ্যামিতিক আনুমানিক। প্রকৃত সংখ্যার জন্য মেশিন প্লেট বা ম্যানুয়াল দেখুন।"
+},
+"shift.records": {
+"en": "Records",
+"bn": "রেকর্ড"
+},
+"shift.summary": {
+"en": "Summaries",
+"bn": "সারসংক্ষেপ"
+},
+"shift.handover": {
+"en": "Handover",
+"bn": "হ্যান্ডওভার"
+},
+"shift.new": {
+"en": "New record",
+"bn": "নতুন রেকর্ড"
+},
+"shift.edit": {
+"en": "Edit record",
+"bn": "রেকর্ড সম্পাদনা"
+},
+"shift.csv": {
+"en": "Export CSV",
+"bn": "CSV এক্সপোর্ট"
+},
+"shift.shiftWord": {
+"en": "Shift",
+"bn": "শিফট"
+},
+"shift.downtimeShort": {
+"en": "down {m} min",
+"bn": "বন্ধ {m} মিনিট"
+},
+"shift.noMatch": {
+"en": "No records match the filters.",
+"bn": "ফিল্টারে কোনো রেকর্ড মেলেনি।"
+},
+"shift.empty": {
+"en": "No shift records yet. Add your first record.",
+"bn": "এখনো শিফট রেকর্ড নেই। প্রথম রেকর্ড যোগ করুন।"
+},
+"shift.count": {
+"en": "{n} records",
+"bn": "{n}টি রেকর্ড"
+},
+"shift.nothingExport": {
+"en": "Nothing to export.",
+"bn": "এক্সপোর্ট করার কিছু নেই।"
+},
+"shift.deleteTitle": {
+"en": "Delete this record?",
+"bn": "এই রেকর্ড মুছবেন?"
+},
+"shift.deleteMsg": {
+"en": "The shift record will be permanently removed.",
+"bn": "শিফট রেকর্ডটি স্থায়ীভাবে মুছে যাবে।"
+},
+"shift.achieve": {
+"en": "Achievement",
+"bn": "অর্জন"
+},
+"shift.unitHint": {
+"en": "Totals are kept separately for each unit.",
+"bn": "প্রতিটি এককের মোট আলাদা রাখা হয়।"
+},
+"shift.unitsNote": {
+"en": "Totals are never mixed across different units.",
+"bn": "ভিন্ন এককের মোট কখনো মিশ্রিত হয় না।"
+},
+"shift.sum.daily": {
+"en": "Daily summary",
+"bn": "দৈনিক সারসংক্ষেপ"
+},
+"shift.sum.machine": {
+"en": "Machine-wise summary",
+"bn": "মেশিন অনুযায়ী সারসংক্ষেপ"
+},
+"shift.sum.downtime": {
+"en": "Downtime by reason",
+"bn": "কারণ অনুযায়ী ডাউনটাইম"
+},
+"shift.sum.noDowntime": {
+"en": "No downtime recorded.",
+"bn": "কোনো ডাউনটাইম লেখা নেই।"
+},
+"shift.sum.actualTarget": {
+"en": "Actual / target",
+"bn": "প্রকৃত / লক্ষ্য"
+},
+"shift.sum.achieve": {
+"en": "Achieved",
+"bn": "অর্জন"
+},
+"shift.f.date": {
+"en": "Date",
+"bn": "তারিখ"
+},
+"shift.f.from": {
+"en": "From date",
+"bn": "শুরুর তারিখ"
+},
+"shift.f.to": {
+"en": "To date",
+"bn": "শেষ তারিখ"
+},
+"shift.f.shift": {
+"en": "Shift",
+"bn": "শিফট"
+},
+"shift.f.operator": {
+"en": "Operator / nickname",
+"bn": "অপারেটর / ডাকনাম"
+},
+"shift.f.machine": {
+"en": "Machine ID",
+"bn": "মেশিন আইডি"
+},
+"shift.f.machineId": {
+"en": "Machine",
+"bn": "মেশিন"
+},
+"shift.f.fabric": {
+"en": "Fabric",
+"bn": "কাপড়"
+},
+"shift.f.fabricType": {
+"en": "Fabric type",
+"bn": "কাপড়ের ধরন"
+},
+"shift.f.style": {
+"en": "Style / order reference",
+"bn": "স্টাইল / অর্ডার রেফারেন্স"
+},
+"shift.f.target": {
+"en": "Target production",
+"bn": "লক্ষ্য উৎপাদন"
+},
+"shift.f.actual": {
+"en": "Actual production",
+"bn": "প্রকৃত উৎপাদন"
+},
+"shift.f.unit": {
+"en": "Production unit",
+"bn": "উৎপাদনের একক"
+},
+"shift.f.downtimeMin": {
+"en": "Downtime (minutes)",
+"bn": "ডাউনটাইম (মিনিট)"
+},
+"shift.f.downtime": {
+"en": "Downtime",
+"bn": "ডাউনটাইম"
+},
+"shift.f.reason": {
+"en": "Downtime reason",
+"bn": "ডাউনটাইমের কারণ"
+},
+"shift.f.defects": {
+"en": "Defect observations",
+"bn": "ত্রুটির পর্যবেক্ষণ"
+},
+"shift.f.action": {
+"en": "Corrective action",
+"bn": "সংশোধনমূলক ব্যবস্থা"
+},
+"shift.f.handover": {
+"en": "Handover notes",
+"bn": "হ্যান্ডওভার নোট"
+},
+"shift.f.q": {
+"en": "Search text",
+"bn": "লেখা খুঁজুন"
+},
+"learn.progress": {
+"en": "Your progress",
+"bn": "আপনার অগ্রগতি"
+},
+"learn.lessonsDone": {
+"en": "Lessons done: {a} / {b}",
+"bn": "সম্পন্ন পাঠ: {a} / {b}"
+},
+"learn.quizRight": {
+"en": "Questions answered correctly: {a} / {b}",
+"bn": "সঠিক উত্তর: {a} / {b}"
+},
+"learn.startQuiz": {
+"en": "Start quiz",
+"bn": "কুইজ শুরু করুন"
+},
+"learn.startExercises": {
+"en": "Defect exercises",
+"bn": "ত্রুটি অনুশীলন"
+},
+"learn.lessons": {
+"en": "Beginner lessons",
+"bn": "শিক্ষানবিশ পাঠ"
+},
+"learn.markDone": {
+"en": "Mark lesson as done",
+"bn": "পাঠ সম্পন্ন চিহ্নিত করুন"
+},
+"learn.doneAgain": {
+"en": "Done (mark again)",
+"bn": "সম্পন্ন (আবার চিহ্নিত)"
+},
+"learn.quiz": {
+"en": "Quiz",
+"bn": "কুইজ"
+},
+"learn.exercises": {
+"en": "Defect identification exercises",
+"bn": "ত্রুটি শনাক্তকরণ অনুশীলন"
+},
+"learn.qOf": {
+"en": "Question {a} of {b}",
+"bn": "প্রশ্ন {a} / {b}"
+},
+"learn.correct": {
+"en": "Correct",
+"bn": "সঠিক"
+},
+"learn.wrong": {
+"en": "Not correct",
+"bn": "সঠিক নয়"
+},
+"learn.next": {
+"en": "Next",
+"bn": "পরবর্তী"
+},
+"learn.finish": {
+"en": "Finish",
+"bn": "শেষ করুন"
+},
+"learn.score": {
+"en": "Score: {a} / {b}",
+"bn": "স্কোর: {a} / {b}"
+},
+"learn.again": {
+"en": "Try again",
+"bn": "আবার চেষ্টা"
+},
+"dict.searchPh": {
+"en": "Search terms (English or বাংলা)…",
+"bn": "শব্দ খুঁজুন (English বা বাংলা)…"
+},
+"notes.add": {
+"en": "Add note",
+"bn": "নোট যোগ করুন"
+},
+"notes.edit": {
+"en": "Edit note",
+"bn": "নোট সম্পাদনা"
+},
+"notes.text": {
+"en": "Note",
+"bn": "নোট"
+},
+"notes.none": {
+"en": "No notes yet.",
+"bn": "এখনো কোনো নোট নেই।"
+},
+"notes.deleteTitle": {
+"en": "Delete this note?",
+"bn": "এই নোট মুছবেন?"
+},
+"more.settings": {
+"en": "Settings",
+"bn": "সেটিংস"
+},
+"more.about": {
+"en": "About & safety",
+"bn": "পরিচিতি ও নিরাপত্তা"
+},
+"set.language": {
+"en": "Language",
+"bn": "ভাষা"
+},
+"set.theme": {
+"en": "Theme",
+"bn": "থিম"
+},
+"set.theme.auto": {
+"en": "Automatic",
+"bn": "স্বয়ংক্রিয়"
+},
+"set.theme.light": {
+"en": "Light",
+"bn": "হালকা"
+},
+"set.theme.dark": {
+"en": "Dark",
+"bn": "গাঢ়"
+},
+"set.units": {
+"en": "Production units",
+"bn": "উৎপাদনের একক"
+},
+"set.unitsHint": {
+"en": "Comma separated, for example: kg, m, pcs, roll",
+"bn": "কমা দিয়ে লিখুন, যেমন: kg, m, pcs, roll"
+},
+"about.safety": {
+"en": "Never touch moving machine parts. Stop the machine and use approved isolation before any internal inspection. Follow the manufacturer's manual and your factory SOP. This app is a helper, not a replacement.",
+"bn": "চলন্ত অংশ কখনো ধরবেন না। অভ্যন্তরীণ পরিদর্শনের আগে মেশিন বন্ধ করে অনুমোদিত আইসোলেশন করুন। প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। এই অ্যাপ সহায়ক, বিকল্প নয়।"
+},
+"about.offline": {
+"en": "Works offline. No account, server, or internet is needed after installation.",
+"bn": "অফলাইনে চলে। ইনস্টলের পর অ্যাকাউন্ট, সার্ভার বা ইন্টারনেট লাগে না।"
+},
+"about.storage": {
+"en": "Data stays on this device. The web app and the Android app keep separate storage and do not sync. Move data with a backup file.",
+"bn": "তথ্য এই ডিভাইসেই থাকে। ওয়েব অ্যাপ ও অ্যান্ড্রয়েড অ্যাপের স্টোরেজ আলাদা এবং সিঙ্ক হয় না। ব্যাকআপ ফাইল দিয়ে তথ্য সরান।"
+},
+"about.platform": {
+"en": "Running as: {p}",
+"bn": "চলছে: {p}"
+},
+"about.disclaimer": {
+"en": "Defect causes and fixes are general guidance only and may not apply to every machine.",
+"bn": "ত্রুটির কারণ ও সমাধান সাধারণ নির্দেশনা মাত্র; সব মেশিনে প্রযোজ্য নাও হতে পারে।"
+},
+"backup.storageNote": {
+"en": "Browser or app data can be lost if you clear site/app data or uninstall. Back up regularly. Web and Android storage are separate.",
+"bn": "সাইট/অ্যাপ ডেটা মুছলে বা আনইনস্টল করলে তথ্য হারাতে পারে। নিয়মিত ব্যাকআপ নিন। ওয়েব ও অ্যান্ড্রয়েড স্টোরেজ আলাদা।"
+},
+"backup.export": {
+"en": "Export backup",
+"bn": "ব্যাকআপ এক্সপোর্ট"
+},
+"backup.exportMsg": {
+"en": "Saves all your machines, shift records, notes, calculations, bookmarks and progress to a JSON file.",
+"bn": "আপনার সব মেশিন, শিফট রেকর্ড, নোট, হিসাব, বুকমার্ক ও অগ্রগতি একটি JSON ফাইলে সংরক্ষণ করে।"
+},
+"backup.exportBtn": {
+"en": "Export JSON backup",
+"bn": "JSON ব্যাকআপ এক্সপোর্ট"
+},
+"backup.import": {
+"en": "Restore from backup",
+"bn": "ব্যাকআপ থেকে রিস্টোর"
+},
+"backup.importMsg": {
+"en": "Choose a backup file made by this app. You will be asked before anything is changed.",
+"bn": "এই অ্যাপে তৈরি ব্যাকআপ ফাইল বেছে নিন। কিছু বদলানোর আগে নিশ্চিত করতে বলা হবে।"
+},
+"backup.choose": {
+"en": "Choose backup file",
+"bn": "ব্যাকআপ ফাইল বাছুন"
+},
+"backup.importBtn": {
+"en": "Check and restore",
+"bn": "যাচাই করে রিস্টোর"
+},
+"backup.noFile": {
+"en": "Choose a backup file first.",
+"bn": "আগে একটি ব্যাকআপ ফাইল বাছুন।"
+},
+"backup.readFail": {
+"en": "The file could not be read.",
+"bn": "ফাইলটি পড়া যায়নি।"
+},
+"backup.invalid": {
+"en": "This backup cannot be used:",
+"bn": "এই ব্যাকআপ ব্যবহার করা যাবে না:"
+},
+"backup.importTitle": {
+"en": "Import backup",
+"bn": "ব্যাকআপ ইমপোর্ট"
+},
+"backup.replaceMsg": {
+"en": "Replace ALL current data with the backup ({n} records)? Current data will be lost.",
+"bn": "বর্তমান সব তথ্য ব্যাকআপ ({n}টি রেকর্ড) দিয়ে বদলাবেন? বর্তমান তথ্য হারিয়ে যাবে।"
+},
+"backup.replace": {
+"en": "Replace all data",
+"bn": "সব তথ্য বদলান"
+},
+"backup.mergeMsg": {
+"en": "Merge the backup ({n} records) into current data instead? Records with the same ID are overwritten.",
+"bn": "বদলে ব্যাকআপ ({n}টি রেকর্ড) বর্তমান তথ্যের সাথে মেলাবেন? একই আইডির রেকর্ড নতুনটি দিয়ে বদলাবে।"
+},
+"backup.merge": {
+"en": "Merge",
+"bn": "মেলান"
+},
+"backup.restored": {
+"en": "Restored {n} records.",
+"bn": "{n}টি রেকর্ড রিস্টোর হয়েছে।"
+},
+"backup.move": {
+"en": "Move data between installs",
+"bn": "এক ইনস্টল থেকে অন্যটিতে তথ্য সরানো"
+},
+"backup.moveMsg": {
+"en": "Export a backup on the old install, send the file to the new one (for example by messaging yourself), then restore it there. The web app and the APK do not share data automatically.",
+"bn": "পুরোনো ইনস্টলে ব্যাকআপ এক্সপোর্ট করে ফাইলটি নতুনটিতে পাঠান (যেমন নিজেকে মেসেজ করে), তারপর সেখানে রিস্টোর করুন। ওয়েব অ্যাপ ও APK নিজে থেকে তথ্য ভাগ করে না।"
+},
+"backup.clear": {
+"en": "Clear all data",
+"bn": "সব তথ্য মুছুন"
+},
+"backup.clearHint": {
+"en": "Back up first. This removes all machines, records, notes and progress from this install.",
+"bn": "আগে ব্যাকআপ নিন। এতে এই ইনস্টল থেকে সব মেশিন, রেকর্ড, নোট ও অগ্রগতি মুছে যাবে।"
+},
+"backup.clearAll": {
+"en": "Clear all data",
+"bn": "সব তথ্য মুছুন"
+},
+"backup.clearTitle": {
+"en": "Clear all data?",
+"bn": "সব তথ্য মুছবেন?"
+},
+"backup.clearMsg": {
+"en": "Everything you saved in this install will be deleted permanently. Export a backup first if you may need it.",
+"bn": "এই ইনস্টলে আপনার সংরক্ষিত সব কিছু স্থায়ীভাবে মুছে যাবে। প্রয়োজন হতে পারে মনে হলে আগে ব্যাকআপ নিন।"
+},
+"backup.clearCheck": {
+"en": "I understand this cannot be undone",
+"bn": "আমি বুঝেছি এটি ফেরানো যাবে না"
+},
+"backup.cleared": {
+"en": "All data cleared.",
+"bn": "সব তথ্য মুছে ফেলা হয়েছে।"
+},
+"backup.result.saved": {
+"en": "File saved or downloaded.",
+"bn": "ফাইল সংরক্ষিত বা ডাউনলোড হয়েছে।"
+},
+"backup.result.shared": {
+"en": "File ready: choose where to save or send it.",
+"bn": "ফাইল তৈরি: কোথায় সংরক্ষণ বা পাঠাবেন বাছুন।"
+},
+"backup.result.copied": {
+"en": "Could not save a file; the content was copied to the clipboard.",
+"bn": "ফাইল সংরক্ষণ হয়নি; লেখাটি ক্লিপবোর্ডে কপি হয়েছে।"
+},
+"backup.result.failed": {
+"en": "Could not save or share the file.",
+"bn": "ফাইল সংরক্ষণ বা শেয়ার করা যায়নি।"
+},
+"backup.notObject": {
+"en": "The file is not a valid backup.",
+"bn": "ফাইলটি বৈধ ব্যাকআপ নয়।"
+},
+"backup.notJson": {
+"en": "The file is not valid JSON.",
+"bn": "ফাইলটি বৈধ JSON নয়।"
+},
+"backup.wrongApp": {
+"en": "This file was not made by this app.",
+"bn": "এই ফাইল এই অ্যাপে তৈরি নয়।"
+},
+"backup.badVersion": {
+"en": "The schema version is missing or invalid.",
+"bn": "স্কিমা সংস্করণ নেই বা ভুল।"
+},
+"backup.newerVersion": {
+"en": "The backup is from a newer app version. Update the app first.",
+"bn": "ব্যাকআপটি নতুন অ্যাপ সংস্করণের। আগে অ্যাপ আপডেট করুন।"
+},
+"backup.noData": {
+"en": "The backup has no data section.",
+"bn": "ব্যাকআপে ডেটা অংশ নেই।"
+},
+"backup.unknownStore": {
+"en": "Unknown data group",
+"bn": "অজানা তথ্য গ্রুপ"
+},
+"backup.badStore": {
+"en": "A data group has the wrong format",
+"bn": "একটি তথ্য গ্রুপের ফরম্যাট ভুল"
+},
+"backup.badRecord": {
+"en": "A record is missing its ID",
+"bn": "একটি রেকর্ডে আইডি নেই"
+},
+"backup.duplicate": {
+"en": "Duplicate record ID",
+"bn": "একই রেকর্ড আইডি দুইবার"
+}
+}

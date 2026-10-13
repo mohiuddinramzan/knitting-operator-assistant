@@ -1,0 +1,119 @@
+[
+ {
+  "id": "how-fabric-forms",
+  "title": {
+   "en": "How knitted fabric forms",
+   "bn": "নিট কাপড় কীভাবে তৈরি হয়"
+  },
+  "body": {
+   "en": [
+    "Knitted fabric is made of interlocking loops. A course is a row of loops across the fabric; a wale is a column of loops along it.",
+    "On a circular machine, needles move in tracks formed by cams. At each feeder the needle takes yarn, pulls it through the old loop and forms a new one.",
+    "Yarn length used per loop is the stitch length. It strongly affects GSM, width and feel."
+   ],
+   "bn": [
+    "নিট কাপড় একে অপরের সাথে জড়ানো লুপ দিয়ে তৈরি। কোর্স হলো প্রস্থ বরাবর লুপের সারি; ওয়েল হলো দৈর্ঘ্য বরাবর লুপের সারি।",
+    "বৃত্তাকার মেশিনে সুই ক্যামের পথে চলে। প্রতিটি ফিডারে সুই সুতা নিয়ে পুরোনো লুপের ভেতর দিয়ে টেনে নতুন লুপ গড়ে।",
+    "একটি লুপে ব্যবহৃত সুতার দৈর্ঘ্য হলো স্টিচ লেংথ। এটি GSM, প্রস্থ ও অনুভূতিতে বড় প্রভাব ফেলে।"
+   ]
+  }
+ },
+ {
+  "id": "safety-first",
+  "title": {
+   "en": "Machine safety basics",
+   "bn": "মেশিন নিরাপত্তার মূল কথা"
+  },
+  "body": {
+   "en": [
+    "Never touch moving parts. Stop the machine and apply your factory's isolation (lock-out) procedure before opening guards or reaching near needles.",
+    "Keep guards in place. Report damaged guards, loose parts and unusual noise at once.",
+    "Follow the manufacturer's manual and factory SOP; this app is a helper, not a replacement."
+   ],
+   "bn": [
+    "চলন্ত অংশ কখনো ধরবেন না। গার্ড খোলা বা সুইয়ের কাছে হাত দেওয়ার আগে মেশিন বন্ধ করে কারখানার আইসোলেশন (লক-আউট) নিয়ম মানুন।",
+    "গার্ড জায়গায় রাখুন। ক্ষতিগ্রস্ত গার্ড, আলগা অংশ ও অস্বাভাবিক শব্দ সঙ্গে সঙ্গে জানান।",
+    "প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন; এই অ্যাপ সহায়ক, বিকল্প নয়।"
+   ]
+  }
+ },
+ {
+  "id": "main-parts",
+  "title": {
+   "en": "Main machine parts",
+   "bn": "মেশিনের প্রধান অংশ"
+  },
+  "body": {
+   "en": [
+    "Cylinder holds needles; sinkers sit between needles on single jersey; cams move needles; feeders deliver yarn; the creel holds cones; the take-down pulls and rolls the fabric.",
+    "Rib and interlock machines add a dial with needles on a horizontal bed."
+   ],
+   "bn": [
+    "সিলিন্ডার সুই ধরে; সিঙ্গেল জার্সিতে সিঙ্কার সুইয়ের মাঝে থাকে; ক্যাম সুই সরায়; ফিডার সুতা দেয়; ক্রিল কোন ধরে; টেক-ডাউন কাপড় টানে ও রোল করে।",
+    "রিব ও ইন্টারলকে অতিরিক্ত ডায়াল থাকে যেখানে আনুভূমিক বেডে সুই থাকে।"
+   ]
+  }
+ },
+ {
+  "id": "fabric-types",
+  "title": {
+   "en": "Single jersey, rib, interlock, fleece",
+   "bn": "সিঙ্গেল জার্সি, রিব, ইন্টারলক, ফ্লিস"
+  },
+  "body": {
+   "en": [
+    "Single jersey: one needle bed, light and stretchy across width. Rib: cylinder + dial, vertical ribs, good stretch. Interlock: double-faced, firmer and smoother. Fleece: loops on the back, often brushed later."
+   ],
+   "bn": [
+    "সিঙ্গেল জার্সি: এক সুই বেড, প্রস্থে হালকা ও স্থিতিস্থাপক। রিব: সিলিন্ডার + ডায়াল, উল্লম্ব রিব, ভালো স্থিতিস্থাপকতা। ইন্টারলক: দ্বি-পিঠ, শক্ত ও মসৃণ। ফ্লিস: পেছনে লুপ, পরে প্রায়ই ব্রাশ করা হয়।"
+   ]
+  }
+ },
+ {
+  "id": "yarn-basics",
+  "title": {
+   "en": "Yarn count and tension",
+   "bn": "সুতার কাউন্ট ও টেনশন"
+  },
+  "body": {
+   "en": [
+    "Yarn count tells how fine the yarn is. Ne: higher number = finer. Tex: higher number = thicker. Denier: higher number = thicker.",
+    "Even yarn tension through guides gives an even fabric. Rough guides or lint disturb it."
+   ],
+   "bn": [
+    "সুতার কাউন্ট সুতা কত সূক্ষ্ম তা বলে। Ne: সংখ্যা বেশি = সরু। টেক্স: সংখ্যা বেশি = মোটা। ডেনিয়ার: সংখ্যা বেশি = মোটা।",
+    "গাইডে সমান টেনশন সমান কাপড় দেয়। খসখসে গাইড বা লিন্ট তা নষ্ট করে।"
+   ]
+  }
+ },
+ {
+  "id": "gsm-basics",
+  "title": {
+   "en": "Measuring GSM",
+   "bn": "GSM মাপা"
+  },
+  "body": {
+   "en": [
+    "GSM is grams per square metre. Cut a known area (for example 100 cm²), weigh it in grams and use the GSM calculator. Measure relaxed fabric as your factory requires and compare with the style card tolerance."
+   ],
+   "bn": [
+    "GSM হলো প্রতি বর্গমিটারে গ্রাম। নির্দিষ্ট ক্ষেত্রফল (যেমন ১০০ সেমি²) কেটে গ্রামে ওজন করে GSM ক্যালকুলেটর ব্যবহার করুন। কারখানার নিয়ম অনুযায়ী রিল্যাক্স করা কাপড় মাপুন এবং স্টাইল কার্ডের সহনশীলতার সাথে মিলান।"
+   ]
+  }
+ },
+ {
+  "id": "shift-handover",
+  "title": {
+   "en": "Good shift handover",
+   "bn": "ভালো শিফট হ্যান্ডওভার"
+  },
+  "body": {
+   "en": [
+    "Write the machine state, open defects, yarn lots running, downtime reasons and anything the next operator must watch. Use the Shift Book handover view."
+   ],
+   "bn": [
+    "মেশিনের অবস্থা, চলমান ত্রুটি, চলমান সুতার লট, ডাউনটাইমের কারণ ও পরের অপারেটরের নজর রাখার বিষয় লিখুন। শিফট বুকের হ্যান্ডওভার ভিউ ব্যবহার করুন।"
+   ]
+  }
+ }
+]

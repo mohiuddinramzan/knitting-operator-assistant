@@ -1,0 +1,382 @@
+[
+ {
+  "id": "needle",
+  "en": "needle",
+  "bn": "সুই (নিডল)",
+  "def": {
+   "en": "Hooked metal part that forms loops.",
+   "bn": "লুপ গঠনকারী হুকযুক্ত ধাতব অংশ।"
+  },
+  "aliases": "নিডল"
+ },
+ {
+  "id": "sinker",
+  "en": "sinker",
+  "bn": "সিঙ্কার",
+  "def": {
+   "en": "Part between needles that holds loops down.",
+   "bn": "সুইয়ের মাঝে থাকা অংশ যা লুপ চেপে রাখে।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "cam",
+  "en": "cam",
+  "bn": "ক্যাম",
+  "def": {
+   "en": "Track that moves needle butts up and down.",
+   "bn": "যে পথ সুইয়ের বাটকে উপরে-নিচে নেয়।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "cylinder",
+  "en": "cylinder",
+  "bn": "সিলিন্ডার",
+  "def": {
+   "en": "Round bed holding the needles.",
+   "bn": "সুই ধরে রাখা গোলাকার বেড।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "dial",
+  "en": "dial",
+  "bn": "ডায়াল",
+  "def": {
+   "en": "Horizontal needle bed used for rib and interlock.",
+   "bn": "রিব ও ইন্টারলকে ব্যবহৃত আনুভূমিক সুই বেড।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "feeder",
+  "en": "feeder",
+  "bn": "ফিডার",
+  "def": {
+   "en": "Yarn feeding point.",
+   "bn": "সুতা সরবরাহের স্থান।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "gauge",
+  "en": "gauge",
+  "bn": "গেজ",
+  "def": {
+   "en": "Needles per inch.",
+   "bn": "প্রতি ইঞ্চিতে সুইয়ের সংখ্যা।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "gsm",
+  "en": "gsm",
+  "bn": "জিএসএম",
+  "def": {
+   "en": "Grams per square metre of fabric.",
+   "bn": "কাপড়ের প্রতি বর্গমিটারের ওজন (গ্রাম)।"
+  },
+  "aliases": "ওজন"
+ },
+ {
+  "id": "stitch-length",
+  "en": "stitch length",
+  "bn": "স্টিচ লেংথ",
+  "def": {
+   "en": "Yarn length used to form one loop.",
+   "bn": "একটি লুপ গঠনে ব্যবহৃত সুতার দৈর্ঘ্য।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "loop",
+  "en": "loop",
+  "bn": "লুপ",
+  "def": {
+   "en": "Basic unit of knitted fabric.",
+   "bn": "নিট কাপড়ের মৌলিক একক।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "wale",
+  "en": "wale",
+  "bn": "ওয়েল",
+  "def": {
+   "en": "Column of loops along the fabric length.",
+   "bn": "কাপড়ের দৈর্ঘ্য বরাবর লুপের সারি।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "course",
+  "en": "course",
+  "bn": "কোর্স",
+  "def": {
+   "en": "Row of loops across the fabric width.",
+   "bn": "কাপড়ের প্রস্থ বরাবর লুপের সারি।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "yarn-count",
+  "en": "yarn count",
+  "bn": "সুতার কাউন্ট",
+  "def": {
+   "en": "Measure of yarn fineness (Ne, tex, denier).",
+   "bn": "সুতার সূক্ষ্মতার মাপ (Ne, টেক্স, ডেনিয়ার)।"
+  },
+  "aliases": "কাউন্ট"
+ },
+ {
+  "id": "lycra",
+  "en": "lycra",
+  "bn": "লাইক্রা",
+  "def": {
+   "en": "Elastic yarn (spandex/elastane) for stretch.",
+   "bn": "স্থিতিস্থাপক সুতা (স্প্যানডেক্স/ইলাস্টেন)।"
+  },
+  "aliases": "spandex elastane স্প্যানডেক্স"
+ },
+ {
+  "id": "greige-fabric",
+  "en": "greige fabric",
+  "bn": "গ্রে ফ্যাব্রিক",
+  "def": {
+   "en": "Knitted fabric before dyeing and finishing.",
+   "bn": "রঙ ও ফিনিশিংয়ের আগের বোনা কাপড়।"
+  },
+  "aliases": "grey fabric"
+ },
+ {
+  "id": "take-down",
+  "en": "take-down",
+  "bn": "টেক-ডাউন",
+  "def": {
+   "en": "System that pulls fabric down and winds it.",
+   "bn": "কাপড় নিচে টানা ও জড়ানোর ব্যবস্থা।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "creel",
+  "en": "creel",
+  "bn": "ক্রিল",
+  "def": {
+   "en": "Rack that holds yarn cones.",
+   "bn": "সুতার কোন রাখার র‍্যাক।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "tension",
+  "en": "tension",
+  "bn": "টেনশন",
+  "def": {
+   "en": "Pulling force on the yarn.",
+   "bn": "সুতার উপর টানের বল।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "slub",
+  "en": "slub",
+  "bn": "স্লাব",
+  "def": {
+   "en": "Thick place in yarn.",
+   "bn": "সুতার মোটা অংশ।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "tuck",
+  "en": "tuck",
+  "bn": "টাক",
+  "def": {
+   "en": "Loop held without knitting off, forming a tuck stitch.",
+   "bn": "লুপ বুনে না ফেলে ধরে রাখা, টাক স্টিচ তৈরি করে।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "miss",
+  "en": "miss",
+  "bn": "মিস (ফ্লোট)",
+  "def": {
+   "en": "Needle skipped so yarn floats behind.",
+   "bn": "সুই বাদ পড়ায় সুতা পেছনে ভাসে।"
+  },
+  "aliases": "float"
+ },
+ {
+  "id": "rpm",
+  "en": "rpm",
+  "bn": "আরপিএম",
+  "def": {
+   "en": "Revolutions per minute of the cylinder.",
+   "bn": "সিলিন্ডারের প্রতি মিনিটে ঘূর্ণন।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "efficiency",
+  "en": "efficiency",
+  "bn": "দক্ষতা (এফিসিয়েন্সি)",
+  "def": {
+   "en": "Share of time the machine is productive.",
+   "bn": "মেশিন কতটা সময় উৎপাদনে থাকে তার অনুপাত।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "downtime",
+  "en": "downtime",
+  "bn": "ডাউনটাইম",
+  "def": {
+   "en": "Time the machine is stopped.",
+   "bn": "মেশিন বন্ধ থাকার সময়।"
+  },
+  "aliases": "stoppage"
+ },
+ {
+  "id": "single-jersey",
+  "en": "single jersey",
+  "bn": "সিঙ্গেল জার্সি",
+  "def": {
+   "en": "Plain knit on one needle bed.",
+   "bn": "এক সুই বেডে সাধারণ নিট।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "rib",
+  "en": "rib",
+  "bn": "রিব",
+  "def": {
+   "en": "Fabric with vertical ribs, knitted with cylinder and dial.",
+   "bn": "উল্লম্ব রিবযুক্ত কাপড়, সিলিন্ডার ও ডায়ালে বোনা।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "interlock",
+  "en": "interlock",
+  "bn": "ইন্টারলক",
+  "def": {
+   "en": "Double-faced firm structure.",
+   "bn": "দ্বি-পিঠের শক্ত কাঠামো।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "fleece",
+  "en": "fleece",
+  "bn": "ফ্লিস",
+  "def": {
+   "en": "Fabric with back loops, often brushed.",
+   "bn": "পেছনে লুপযুক্ত কাপড়, প্রায়ই ব্রাশ করা।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "drop-stitch",
+  "en": "drop stitch",
+  "bn": "ড্রপ স্টিচ",
+  "def": {
+   "en": "A missing loop in the fabric.",
+   "bn": "কাপড়ে একটি লুপ না থাকা।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "needle-line",
+  "en": "needle line",
+  "bn": "নিডল লাইন",
+  "def": {
+   "en": "Line along the length caused by a needle fault.",
+   "bn": "সুইয়ের ত্রুটিতে দৈর্ঘ্য বরাবর লাইন।"
+  },
+  "aliases": "সুই লাইন"
+ },
+ {
+  "id": "barre",
+  "en": "barre",
+  "bn": "বারে",
+  "def": {
+   "en": "Horizontal band or stripe defect.",
+   "bn": "আড়াআড়ি ব্যান্ড বা ডোরার ত্রুটি।"
+  },
+  "aliases": "stripe ডোরা"
+ },
+ {
+  "id": "spirality",
+  "en": "spirality",
+  "bn": "স্পাইরালিটি",
+  "def": {
+   "en": "Slant of wales in the fabric.",
+   "bn": "কাপড়ে ওয়েলের বাঁকা অবস্থা।"
+  },
+  "aliases": "skew"
+ },
+ {
+  "id": "selvedge",
+  "en": "selvedge",
+  "bn": "সেলভেজ",
+  "def": {
+   "en": "Finished edge of fabric.",
+   "bn": "কাপড়ের প্রান্ত।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "lint",
+  "en": "lint",
+  "bn": "লিন্ট",
+  "def": {
+   "en": "Loose fibre dust.",
+   "bn": "আলগা আঁশের ধুলো।"
+  },
+  "aliases": "fly ফ্লাই"
+ },
+ {
+  "id": "lubrication",
+  "en": "lubrication",
+  "bn": "লুব্রিকেশন",
+  "def": {
+   "en": "Applying approved lubricant to moving parts.",
+   "bn": "চলন্ত অংশে অনুমোদিত লুব্রিক্যান্ট দেওয়া।"
+  },
+  "aliases": "oiling"
+ },
+ {
+  "id": "lock-out",
+  "en": "lock-out",
+  "bn": "লক-আউট",
+  "def": {
+   "en": "Isolating energy so the machine cannot start during work.",
+   "bn": "কাজের সময় মেশিন চালু হওয়া ঠেকাতে শক্তি আলাদা করা।"
+  },
+  "aliases": "isolation আইসোলেশন"
+ },
+ {
+  "id": "sop",
+  "en": "SOP",
+  "bn": "এসওপি",
+  "def": {
+   "en": "Standard operating procedure.",
+   "bn": "স্ট্যান্ডার্ড অপারেটিং প্রসিডিউর।"
+  },
+  "aliases": ""
+ },
+ {
+  "id": "style-change",
+  "en": "style change",
+  "bn": "স্টাইল চেঞ্জ",
+  "def": {
+   "en": "Changing the machine for a new product.",
+   "bn": "নতুন পণ্যের জন্য মেশিন পরিবর্তন।"
+  },
+  "aliases": ""
+ }
+]

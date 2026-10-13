@@ -1,0 +1,268 @@
+[
+ {
+  "id": "needles",
+  "kind": "component",
+  "title": {
+   "en": "Needles",
+   "bn": "সুই (নিডল)"
+  },
+  "body": {
+   "en": [
+    "The needle forms the loop: its hook catches yarn, the latch opens and closes, and the butt follows the cam track that moves it up and down.",
+    "Needle type and gauge must match the machine and the style card. Bent hooks, sticking latches or worn butts commonly cause lines, holes and drop stitches.",
+    "Replace needles only with the correct type, following factory SOP, with the machine stopped and isolated."
+   ],
+   "bn": [
+    "সুই লুপ তৈরি করে: হুক সুতা ধরে, ল্যাচ খোলে ও বন্ধ হয়, আর বাট ক্যামের পথ ধরে সুইকে উপরে-নিচে নেয়।",
+    "সুইয়ের ধরন ও গেজ মেশিন ও স্টাইল কার্ডের সাথে মিলতে হবে। বাঁকা হুক, আটকানো ল্যাচ বা ক্ষয়া বাট প্রায়ই লাইন, ছিদ্র ও ড্রপ স্টিচের কারণ হয়।",
+    "শুধু কারখানার SOP মেনে, মেশিন বন্ধ ও আইসোলেট রেখে সঠিক ধরনের সুই বদলান।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "sinkers",
+  "kind": "component",
+  "title": {
+   "en": "Sinkers",
+   "bn": "সিঙ্কার"
+  },
+  "body": {
+   "en": [
+    "Sinkers sit between needles on single-jersey and fleece machines. They hold the old loop down while the needle rises and help with loop control and fabric take-down.",
+    "Worn or wrong sinkers can cause sinker marks and uneven stitches."
+   ],
+   "bn": [
+    "সিঙ্গেল জার্সি ও ফ্লিস মেশিনে সিঙ্কার সুইয়ের মাঝে থাকে। সুই উঠলে এটি পুরোনো লুপ চেপে রাখে এবং লুপ নিয়ন্ত্রণে সাহায্য করে।",
+    "ক্ষয়া বা ভুল সিঙ্কারে সিঙ্কার মার্ক ও অসম স্টিচ হতে পারে।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "cams",
+  "kind": "component",
+  "title": {
+   "en": "Cams",
+   "bn": "ক্যাম"
+  },
+  "body": {
+   "en": [
+    "Cams are shaped tracks that move the needle butts up and down to knit, tuck or miss. Their settings decide loop size and timing.",
+    "Cam settings are for the authorised mechanic. Operators should not change them."
+   ],
+   "bn": [
+    "ক্যাম হলো আকৃতিযুক্ত পথ যা সুইয়ের বাটকে উপরে-নিচে সরিয়ে নিট, টাক বা মিস করায়। এর সেটিং লুপের আকার ও টাইমিং ঠিক করে।",
+    "ক্যাম সেটিং অনুমোদিত মেকানিকের কাজ। অপারেটর বদলাবেন না।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "feeders",
+  "kind": "component",
+  "title": {
+   "en": "Feeders",
+   "bn": "ফিডার"
+  },
+  "body": {
+   "en": [
+    "A feeder is a yarn feeding point around the cylinder where yarn is delivered to the needles. More feeders generally means more courses per revolution.",
+    "Feeder position and yarn tension affect stitch quality."
+   ],
+   "bn": [
+    "ফিডার হলো সিলিন্ডারের চারপাশে সুতা সরবরাহের স্থান যেখানে সুই সুতা পায়। বেশি ফিডার মানে সাধারণত প্রতি ঘূর্ণনে বেশি কোর্স।",
+    "ফিডারের অবস্থান ও সুতার টেনশন স্টিচের মানে প্রভাব ফেলে।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "yarn-guides",
+  "kind": "component",
+  "title": {
+   "en": "Yarn guides",
+   "bn": "ইয়ার্ন গাইড"
+  },
+  "body": {
+   "en": [
+    "Yarn guides, eyelets and tensioners control the yarn path from cone to feeder. Rough or worn guides cause breakage and tension variation.",
+    "Keep guides clean. Report worn guides to the mechanic."
+   ],
+   "bn": [
+    "ইয়ার্ন গাইড, আইলেট ও টেনশনার কোন থেকে ফিডার পর্যন্ত সুতার পথ নিয়ন্ত্রণ করে। খসখসে বা ক্ষয়া গাইডে সুতা ছেঁড়ে ও টেনশন অসম হয়।",
+    "গাইড পরিষ্কার রাখুন। ক্ষয়া গাইড মেকানিককে জানান।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "gauge",
+  "kind": "component",
+  "title": {
+   "en": "Gauge",
+   "bn": "গেজ"
+  },
+  "body": {
+   "en": [
+    "Gauge is the number of needles per inch along the cylinder circumference (e.g. 24G = 24 needles per inch). Higher gauge means finer needles and finer fabric.",
+    "Choose yarn count to suit the gauge; follow the style card."
+   ],
+   "bn": [
+    "গেজ হলো সিলিন্ডারের পরিধি বরাবর প্রতি ইঞ্চিতে সুইয়ের সংখ্যা (যেমন 24G = প্রতি ইঞ্চিতে ২৪টি সুই)। বেশি গেজ মানে সরু সুই ও সূক্ষ্ম কাপড়।",
+    "গেজ অনুযায়ী সুতার কাউন্ট বেছে নিন; স্টাইল কার্ড অনুসরণ করুন।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "diameter",
+  "kind": "component",
+  "title": {
+   "en": "Machine diameter",
+   "bn": "মেশিনের ব্যাস"
+  },
+  "body": {
+   "en": [
+    "Diameter is the cylinder diameter in inches (e.g. 30 inch). With gauge it roughly fixes the needle count and the open fabric width.",
+    "The Machine Reference calculator shows the approximate relation: needles ≈ π × diameter × gauge. The maker's real needle count may differ."
+   ],
+   "bn": [
+    "ব্যাস হলো সিলিন্ডারের ব্যাস ইঞ্চিতে (যেমন ৩০ ইঞ্চি)। গেজের সাথে এটি মোটামুটি সুইয়ের সংখ্যা ও খোলা কাপড়ের প্রস্থ ঠিক করে।",
+    "মেশিন রেফারেন্স ক্যালকুলেটর আনুমানিক সম্পর্ক দেখায়: সুই ≈ π × ব্যাস × গেজ। প্রস্তুতকারকের প্রকৃত সুইয়ের সংখ্যা ভিন্ন হতে পারে।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "needle-count",
+  "kind": "component",
+  "title": {
+   "en": "Needle count",
+   "bn": "সুইয়ের সংখ্যা"
+  },
+  "body": {
+   "en": [
+    "Needle count is the total number of needles in the cylinder (and dial for rib/interlock machines). It is given in the machine specification.",
+    "Use the number from the machine plate or manual rather than an estimate."
+   ],
+   "bn": [
+    "সুইয়ের সংখ্যা হলো সিলিন্ডারে (এবং রিব/ইন্টারলকে ডায়ালে) মোট সুই। এটি মেশিনের স্পেসিফিকেশনে দেওয়া থাকে।",
+    "আন্দাজের বদলে মেশিন প্লেট বা ম্যানুয়ালের সংখ্যা ব্যবহার করুন।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "single-jersey",
+  "kind": "fabric",
+  "title": {
+   "en": "Single Jersey setup",
+   "bn": "সিঙ্গেল জার্সি সেটআপ"
+  },
+  "body": {
+   "en": [
+    "Single jersey is knitted on one needle bed (cylinder) with sinkers. One face shows knit loops, the other shows purl-like back loops.",
+    "Check before start: needle and sinker condition, yarn path, take-down, lint. Follow the pre-start checklist."
+   ],
+   "bn": [
+    "সিঙ্গেল জার্সি এক সুই বেডে (সিলিন্ডার) সিঙ্কারসহ বোনা হয়। এক পিঠে নিট লুপ, অন্য পিঠে পার্ল-সদৃশ লুপ থাকে।",
+    "শুরুর আগে দেখুন: সুই ও সিঙ্কারের অবস্থা, সুতার পথ, টেক-ডাউন, লিন্ট। প্রি-স্টার্ট চেকলিস্ট অনুসরণ করুন।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "rib",
+  "kind": "fabric",
+  "title": {
+   "en": "Rib setup",
+   "bn": "রিব সেটআপ"
+  },
+  "body": {
+   "en": [
+    "Rib uses a cylinder and a dial so needles knit on both faces, giving a stretchy, ribbed fabric (e.g. 1x1).",
+    "Dial and cylinder relationship is set by the mechanic. Report any unusual noise or needle damage at once."
+   ],
+   "bn": [
+    "রিব সিলিন্ডার ও ডায়াল ব্যবহার করে উভয় পিঠে সুই বুনে, ফলে স্থিতিস্থাপক রিবযুক্ত কাপড় হয় (যেমন ১x১)।",
+    "ডায়াল ও সিলিন্ডারের সম্পর্ক মেকানিক ঠিক করেন। অস্বাভাবিক শব্দ বা সুই ক্ষতি হলে সঙ্গে সঙ্গে জানান।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "interlock",
+  "kind": "fabric",
+  "title": {
+   "en": "Interlock setup",
+   "bn": "ইন্টারলক সেটআপ"
+  },
+  "body": {
+   "en": [
+    "Interlock is a double-faced structure knitted on cylinder and dial where feeders work in pairs, so both faces look alike. It is firmer and smoother than rib.",
+    "Feeder pairing and needle timing need correct setup by the mechanic."
+   ],
+   "bn": [
+    "ইন্টারলক সিলিন্ডার ও ডায়ালে বোনা দ্বি-পিঠের কাঠামো যেখানে ফিডার জোড়ায় কাজ করে, তাই দুই পিঠ একই দেখায়। এটি রিবের চেয়ে শক্ত ও মসৃণ।",
+    "ফিডারের জোড়া ও সুইয়ের টাইমিং মেকানিকের সঠিক সেটআপ প্রয়োজন।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "fleece",
+  "kind": "fabric",
+  "title": {
+   "en": "Fleece setup",
+   "bn": "ফ্লিস সেটআপ"
+  },
+  "body": {
+   "en": [
+    "Fleece is typically single-jersey based with an extra yarn forming loops on the back, which can later be brushed. Back-loop evenness depends on yarn feed and tension.",
+    "Check pile yarn lots and back loops regularly."
+   ],
+   "bn": [
+    "ফ্লিস সাধারণত সিঙ্গেল জার্সি ভিত্তিক, পেছনে অতিরিক্ত সুতায় লুপ তৈরি হয় যা পরে ব্রাশ করা যায়। পেছনের লুপের সমতা সুতার ফিড ও টেনশনের উপর নির্ভর করে।",
+    "পাইল সুতার লট ও পেছনের লুপ নিয়মিত দেখুন।"
+   ]
+  },
+  "safety": {
+   "en": "Educational overview only. Always follow the machine manufacturer's manual and your factory SOP. Stop and isolate the machine before touching any internal part.",
+   "bn": "এটি শুধু শিক্ষামূলক ধারণা। সবসময় মেশিন প্রস্তুতকারকের ম্যানুয়াল ও কারখানার SOP মানুন। কোনো অভ্যন্তরীণ অংশ ছোঁয়ার আগে মেশিন বন্ধ ও আইসোলেট করুন।"
+  }
+ }
+]

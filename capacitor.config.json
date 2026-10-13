@@ -1,0 +1,15 @@
+{
+  "appId": "com.knittingoperator.assistant",
+  "appName": "Knitting Operator Assistant",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1b2a52",
+      "overlaysWebView": false
+    }
+  }
+}

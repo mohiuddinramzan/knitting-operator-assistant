@@ -1,0 +1,134 @@
+[
+ [
+  "needle line",
+  "সুই লাইন",
+  "নিডল লাইন",
+  "vertical line",
+  "লম্বা দাগ",
+  "line defect"
+ ],
+ [
+  "drop stitch",
+  "ড্রপ স্টিচ",
+  "missing loop",
+  "ladder",
+  "লুপ নেই"
+ ],
+ [
+  "hole",
+  "ছিদ্র",
+  "ফুটো",
+  "broken stitch",
+  "ছেঁড়া স্টিচ"
+ ],
+ [
+  "oil mark",
+  "তেলের দাগ",
+  "oil stain",
+  "grease",
+  "তেল"
+ ],
+ [
+  "barre",
+  "বারে",
+  "stripe",
+  "ডোরা",
+  "horizontal band",
+  "আড়াআড়ি দাগ"
+ ],
+ [
+  "lycra",
+  "লাইক্রা",
+  "spandex",
+  "elastane",
+  "স্প্যানডেক্স"
+ ],
+ [
+  "yarn breakage",
+  "সুতা ছিঁড়ে",
+  "সুতা ছেঁড়া",
+  "yarn break",
+  "stop motion"
+ ],
+ [
+  "crease",
+  "ভাঁজ",
+  "fold mark",
+  "fold",
+  "ভাঁজ দাগ"
+ ],
+ [
+  "gsm",
+  "জিএসএম",
+  "weight",
+  "ওজন",
+  "grammage"
+ ],
+ [
+  "sinker",
+  "সিঙ্কার",
+  "sinker mark"
+ ],
+ [
+  "needle",
+  "সুই",
+  "নিডল"
+ ],
+ [
+  "fleece",
+  "ফ্লিস",
+  "pile",
+  "brushing"
+ ],
+ [
+  "spirality",
+  "স্পাইরালিটি",
+  "skew",
+  "twist",
+  "বাঁকা"
+ ],
+ [
+  "downtime",
+  "ডাউনটাইম",
+  "stoppage",
+  "machine stop",
+  "মেশিন বন্ধ"
+ ],
+ [
+  "maintenance",
+  "রক্ষণাবেক্ষণ",
+  "মেইনটেন্যান্স",
+  "service"
+ ],
+ [
+  "lubrication",
+  "লুব্রিকেশন",
+  "oiling",
+  "তেল দেওয়া"
+ ],
+ [
+  "cylinder",
+  "সিলিন্ডার",
+  "dial",
+  "ডায়াল"
+ ],
+ [
+  "yarn count",
+  "কাউন্ট",
+  "সুতার কাউন্ট",
+  "ne",
+  "tex"
+ ],
+ [
+  "stitch length",
+  "স্টিচ লেংথ",
+  "সেলাইয়ের দৈর্ঘ্য",
+  "sl"
+ ],
+ [
+  "thick-thin",
+  "মোটা-চিকন",
+  "slub",
+  "স্লাব"
+ ]
+]

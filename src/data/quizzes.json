@@ -1,0 +1,327 @@
+[
+ {
+  "id": "q1",
+  "kind": "quiz",
+  "q": {
+   "en": "What does a vertical line along the fabric length most often point to?",
+   "bn": "কাপড়ের দৈর্ঘ্য বরাবর লম্বা লাইন সাধারণত কীসের ইঙ্গিত দেয়?"
+  },
+  "options": {
+   "en": [
+    "A needle-related fault (possible cause)",
+    "A change in room temperature",
+    "The creel colour"
+   ],
+   "bn": [
+    "সুই-সংক্রান্ত ত্রুটি (সম্ভাব্য কারণ)",
+    "ঘরের তাপমাত্রার পরিবর্তন",
+    "ক্রিলের রং"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "A needle line is commonly linked to a damaged or dirty needle or trick, but confirm by inspection.",
+   "bn": "নিডল লাইন সাধারণত ক্ষতিগ্রস্ত বা নোংরা সুই বা ট্রিকের সাথে যুক্ত, তবে পরীক্ষা করে নিশ্চিত করুন।"
+  }
+ },
+ {
+  "id": "q2",
+  "kind": "quiz",
+  "q": {
+   "en": "Before opening a guard near the needles you must:",
+   "bn": "সুইয়ের কাছে গার্ড খোলার আগে আপনাকে অবশ্যই:"
+  },
+  "options": {
+   "en": [
+    "Slow the machine",
+    "Stop and isolate the machine per SOP",
+    "Wear gloves and reach in"
+   ],
+   "bn": [
+    "মেশিন ধীর করতে হবে",
+    "SOP অনুযায়ী মেশিন বন্ধ ও আইসোলেট করতে হবে",
+    "গ্লাভস পরে হাত ঢোকাতে হবে"
+   ]
+  },
+  "answer": 1,
+  "explain": {
+   "en": "Never touch moving parts. Stop and isolate first.",
+   "bn": "চলন্ত অংশ কখনো ধরবেন না। আগে বন্ধ ও আইসোলেট করুন।"
+  }
+ },
+ {
+  "id": "q3",
+  "kind": "quiz",
+  "q": {
+   "en": "GSM is:",
+   "bn": "GSM হলো:"
+  },
+  "options": {
+   "en": [
+    "Grams per square metre",
+    "Gauge per square millimetre",
+    "Gram stitches per metre"
+   ],
+   "bn": [
+    "প্রতি বর্গমিটারে গ্রাম",
+    "প্রতি বর্গমিলিমিটারে গেজ",
+    "প্রতি মিটারে গ্রাম স্টিচ"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "GSM = mass in grams ÷ area in square metres.",
+   "bn": "GSM = গ্রামে ওজন ÷ বর্গমিটারে ক্ষেত্রফল।"
+  }
+ },
+ {
+  "id": "q4",
+  "kind": "quiz",
+  "q": {
+   "en": "A 100 cm² sample weighs 1.8 g. What is the GSM?",
+   "bn": "১০০ সেমি² নমুনার ওজন ১.৮ গ্রাম। GSM কত?"
+  },
+  "options": {
+   "en": [
+    "18",
+    "180",
+    "1800"
+   ],
+   "bn": [
+    "১৮",
+    "১৮০",
+    "১৮০০"
+   ]
+  },
+  "answer": 1,
+  "explain": {
+   "en": "100 cm² = 0.01 m². 1.8 ÷ 0.01 = 180 GSM.",
+   "bn": "১০০ সেমি² = ০.০১ মি²। ১.৮ ÷ ০.০১ = ১৮০ GSM।"
+  }
+ },
+ {
+  "id": "q5",
+  "kind": "quiz",
+  "q": {
+   "en": "Gauge means:",
+   "bn": "গেজ মানে:"
+  },
+  "options": {
+   "en": [
+    "Number of feeders",
+    "Needles per inch",
+    "Machine speed"
+   ],
+   "bn": [
+    "ফিডারের সংখ্যা",
+    "প্রতি ইঞ্চিতে সুই",
+    "মেশিনের গতি"
+   ]
+  },
+  "answer": 1,
+  "explain": {
+   "en": "24G = 24 needles per inch.",
+   "bn": "24G = প্রতি ইঞ্চিতে ২৪ সুই।"
+  }
+ },
+ {
+  "id": "q6",
+  "kind": "quiz",
+  "q": {
+   "en": "Which fabric typically uses a dial as well as a cylinder?",
+   "bn": "কোন কাপড়ে সাধারণত সিলিন্ডারের সাথে ডায়াল লাগে?"
+  },
+  "options": {
+   "en": [
+    "Rib / Interlock",
+    "Single jersey",
+    "Neither"
+   ],
+   "bn": [
+    "রিব / ইন্টারলক",
+    "সিঙ্গেল জার্সি",
+    "কোনোটিতেই না"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Rib and interlock use cylinder and dial.",
+   "bn": "রিব ও ইন্টারলকে সিলিন্ডার ও ডায়াল থাকে।"
+  }
+ },
+ {
+  "id": "q7",
+  "kind": "quiz",
+  "q": {
+   "en": "Horizontal bands repeating across the fabric are called:",
+   "bn": "কাপড়ে আড়াআড়ি পুনরাবৃত্ত ব্যান্ডকে বলে:"
+  },
+  "options": {
+   "en": [
+    "Barré",
+    "Needle line",
+    "Hole"
+   ],
+   "bn": [
+    "বারে",
+    "নিডল লাইন",
+    "ছিদ্র"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Barré is a horizontal stripe defect often linked to yarn or feeder differences.",
+   "bn": "বারে আড়াআড়ি ডোরার ত্রুটি, প্রায়ই সুতা বা ফিডারের পার্থক্যের সাথে যুক্ত।"
+  }
+ },
+ {
+  "id": "q8",
+  "kind": "quiz",
+  "q": {
+   "en": "If a GSM result is out of tolerance, the best first step is:",
+   "bn": "GSM সহনশীলতার বাইরে হলে প্রথম ধাপ:"
+  },
+  "options": {
+   "en": [
+    "Change several settings quickly",
+    "Re-measure and report to the supervisor",
+    "Ignore it"
+   ],
+   "bn": [
+    "দ্রুত কয়েকটি সেটিং বদলানো",
+    "আবার মেপে সুপারভাইজারকে জানানো",
+    "উপেক্ষা করা"
+   ]
+  },
+  "answer": 1,
+  "explain": {
+   "en": "Re-check the measurement, then follow the approved procedure; change one thing at a time.",
+   "bn": "মাপ আবার দেখে অনুমোদিত পদ্ধতি মানুন; একবারে একটি জিনিস বদলান।"
+  }
+ },
+ {
+  "id": "q9",
+  "kind": "quiz",
+  "q": {
+   "en": "Two units cannot be added together in a production total. Example:",
+   "bn": "উৎপাদনের মোট হিসাবে দুটি ভিন্ন একক যোগ করা যায় না। উদাহরণ:"
+  },
+  "options": {
+   "en": [
+    "kg + metres",
+    "kg + kg",
+    "metres + metres"
+   ],
+   "bn": [
+    "কেজি + মিটার",
+    "কেজি + কেজি",
+    "মিটার + মিটার"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Totals must be kept per unit.",
+   "bn": "মোট হিসাব প্রতিটি এককে আলাদা রাখতে হবে।"
+  }
+ },
+ {
+  "id": "q10",
+  "kind": "quiz",
+  "q": {
+   "en": "Oil marks are best prevented by:",
+   "bn": "তেলের দাগ প্রতিরোধে সবচেয়ে ভালো:"
+  },
+  "options": {
+   "en": [
+    "Using approved lubricant in approved quantity and wiping excess",
+    "Adding extra oil",
+    "Never cleaning"
+   ],
+   "bn": [
+    "অনুমোদিত লুব্রিক্যান্ট অনুমোদিত পরিমাণে ও বাড়তি তেল মোছা",
+    "বেশি তেল দেওয়া",
+    "কখনো পরিষ্কার না করা"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Excess oil can drip onto fabric.",
+   "bn": "বাড়তি তেল কাপড়ে পড়তে পারে।"
+  }
+ },
+ {
+  "id": "d1",
+  "kind": "exercise",
+  "q": {
+   "en": "Defect exercise: A repeating small gap appears at the same wale after a needle change. Most likely area to inspect first?",
+   "bn": "ত্রুটি অনুশীলন: সুই বদলের পর একই ওয়েলে ছোট ফাঁক বারবার হচ্ছে। প্রথমে কোথায় দেখবেন?"
+  },
+  "options": {
+   "en": [
+    "The needle/trick at that position",
+    "The dye house",
+    "The fabric roll label"
+   ],
+   "bn": [
+    "ওই অবস্থানের সুই/ট্রিক",
+    "ডাইং হাউস",
+    "কাপড়ের রোল লেবেল"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "A fault tied to a position and a recent needle change points first to that needle and trick; confirm by inspection.",
+   "bn": "নির্দিষ্ট অবস্থান ও সদ্য সুই বদলের সাথে যুক্ত ত্রুটিতে আগে ওই সুই ও ট্রিক দেখুন; পরীক্ষা করে নিশ্চিত করুন।"
+  }
+ },
+ {
+  "id": "d2",
+  "kind": "exercise",
+  "q": {
+   "en": "Defect exercise: Bands repeat every 12 feeders and cones come from two lots. What is a sensible first action?",
+   "bn": "ত্রুটি অনুশীলন: প্রতি ১২ ফিডারে ব্যান্ড পুনরাবৃত্ত হচ্ছে এবং কোন দুই লটের। প্রথম বুদ্ধিমান পদক্ষেপ কী?"
+  },
+  "options": {
+   "en": [
+    "Check and unify yarn lots; report",
+    "Increase RPM",
+    "Remove the guards"
+   ],
+   "bn": [
+    "সুতার লট মিলিয়ে একীভূত করে জানানো",
+    "RPM বাড়ানো",
+    "গার্ড খুলে ফেলা"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Mixed lots are a possible cause of barré.",
+   "bn": "মিশ্র লট বারের সম্ভাব্য কারণ।"
+  }
+ },
+ {
+  "id": "d3",
+  "kind": "exercise",
+  "q": {
+   "en": "Defect exercise: Greasy dark line along fabric. What do you check?",
+   "bn": "ত্রুটি অনুশীলন: কাপড়ে তেলতেলে গাঢ় লাইন। কী দেখবেন?"
+  },
+  "options": {
+   "en": [
+    "Oil traces on guides/feeders and lubrication practice",
+    "Cone colour",
+    "Shift name"
+   ],
+   "bn": [
+    "গাইড/ফিডারে তেলের চিহ্ন ও লুব্রিকেশন পদ্ধতি",
+    "কোনের রং",
+    "শিফটের নাম"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "en": "Find the oil source and fix it before running on.",
+   "bn": "তেলের উৎস খুঁজে ঠিক করে তারপর চালান।"
+  }
+ }
+]

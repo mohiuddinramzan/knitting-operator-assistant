@@ -1,0 +1,187 @@
+[
+ {
+  "id": "prestart",
+  "title": {
+   "en": "Pre-start inspection",
+   "bn": "চালুর আগের পরিদর্শন"
+  },
+  "items": [
+   {
+    "en": "Confirm the machine is stopped and isolated per SOP before opening any guard",
+    "bn": "কোনো গার্ড খোলার আগে SOP অনুযায়ী মেশিন বন্ধ ও আইসোলেট নিশ্চিত করুন",
+    "safety": true
+   },
+   {
+    "en": "Check guards and safety covers are closed and secured before restart",
+    "bn": "পুনরায় চালুর আগে গার্ড ও সেফটি কভার বন্ধ ও আটকানো আছে কি না দেখুন",
+    "safety": true
+   },
+   {
+    "en": "Check needles and sinkers visually for damage or missing parts",
+    "bn": "সুই ও সিঙ্কারে ক্ষতি বা হারানো অংশ আছে কি না দেখুন",
+    "safety": false
+   },
+   {
+    "en": "Check yarn cones, creel and yarn path against the style card",
+    "bn": "কোন, ক্রিল ও সুতার পথ স্টাইল কার্ডের সাথে মিলান",
+    "safety": false
+   },
+   {
+    "en": "Check lint and remove it from feeders and the needle area per cleaning SOP",
+    "bn": "ফিডার ও সুই এলাকা থেকে SOP অনুযায়ী লিন্ট পরিষ্কার করুন",
+    "safety": false
+   },
+   {
+    "en": "Check take-down and fabric roll condition",
+    "bn": "টেক-ডাউন ও কাপড়ের রোলের অবস্থা দেখুন",
+    "safety": false
+   },
+   {
+    "en": "Confirm no tools or loose items remain on the machine",
+    "bn": "মেশিনে কোনো যন্ত্র বা আলগা জিনিস নেই নিশ্চিত করুন",
+    "safety": true
+   }
+  ]
+ },
+ {
+  "id": "stylechange",
+  "title": {
+   "en": "Style-change checklist",
+   "bn": "স্টাইল-চেঞ্জ চেকলিস্ট"
+  },
+  "items": [
+   {
+    "en": "Stop and isolate the machine per SOP before any change",
+    "bn": "যেকোনো পরিবর্তনের আগে SOP অনুযায়ী মেশিন বন্ধ ও আইসোলেট করুন",
+    "safety": true
+   },
+   {
+    "en": "Confirm new style card, yarn count and lot",
+    "bn": "নতুন স্টাইল কার্ড, সুতার কাউন্ট ও লট নিশ্চিত করুন",
+    "safety": false
+   },
+   {
+    "en": "Clear old yarn from creel, guides and feeders",
+    "bn": "ক্রিল, গাইড ও ফিডার থেকে পুরোনো সুতা সরান",
+    "safety": false
+   },
+   {
+    "en": "Mechanic changes settings per the approved setting sheet",
+    "bn": "অনুমোদিত সেটিং শিট অনুযায়ী মেকানিক সেটিং বদলান",
+    "safety": false
+   },
+   {
+    "en": "Run a sample and compare with the approved sample",
+    "bn": "নমুনা চালিয়ে অনুমোদিত নমুনার সাথে তুলনা করুন",
+    "safety": false
+   },
+   {
+    "en": "Record style change time and downtime",
+    "bn": "স্টাইল বদলের সময় ও ডাউনটাইম লিখুন",
+    "safety": false
+   }
+  ]
+ },
+ {
+  "id": "cleaning",
+  "title": {
+   "en": "Routine cleaning",
+   "bn": "নিয়মিত পরিষ্কার"
+  },
+  "items": [
+   {
+    "en": "Stop and isolate the machine before cleaning near needles or cams",
+    "bn": "সুই বা ক্যামের কাছে পরিষ্কারের আগে মেশিন বন্ধ ও আইসোলেট করুন",
+    "safety": true
+   },
+   {
+    "en": "Remove lint from feeders, guides and the needle area using approved tools",
+    "bn": "অনুমোদিত সরঞ্জামে ফিডার, গাইড ও সুই এলাকার লিন্ট সরান",
+    "safety": false
+   },
+   {
+    "en": "Clean creel and floor area around the machine",
+    "bn": "মেশিনের আশপাশের ক্রিল ও মেঝে পরিষ্কার করুন",
+    "safety": false
+   },
+   {
+    "en": "Wipe oil spills and report leaks",
+    "bn": "তেল পড়লে মুছুন এবং লিক জানান",
+    "safety": false
+   },
+   {
+    "en": "Never use compressed air toward people or into open mechanisms unless your SOP allows",
+    "bn": "SOP অনুমতি না দিলে মানুষের দিকে বা খোলা কলকবজায় কম্প্রেসড এয়ার ব্যবহার করবেন না",
+    "safety": true
+   }
+  ]
+ },
+ {
+  "id": "lubrication",
+  "title": {
+   "en": "Approved lubrication reminders",
+   "bn": "অনুমোদিত লুব্রিকেশন স্মরণিকা"
+  },
+  "items": [
+   {
+    "en": "Use only the lubricant and quantity approved in the manufacturer's manual/factory SOP",
+    "bn": "শুধু প্রস্তুতকারকের ম্যানুয়াল/কারখানার SOP-তে অনুমোদিত লুব্রিক্যান্ট ও পরিমাণ ব্যবহার করুন",
+    "safety": true
+   },
+   {
+    "en": "Lubricate only when the machine is stopped and isolated, unless an automatic system is fitted",
+    "bn": "স্বয়ংক্রিয় সিস্টেম না থাকলে শুধু মেশিন বন্ধ ও আইসোলেট অবস্থায় লুব্রিকেট করুন",
+    "safety": true
+   },
+   {
+    "en": "Check the automatic lubrication level and lines for leaks",
+    "bn": "স্বয়ংক্রিয় লুব্রিকেশনের লেভেল ও লাইনে লিক দেখুন",
+    "safety": false
+   },
+   {
+    "en": "Wipe excess oil to prevent oil marks on fabric",
+    "bn": "কাপড়ে তেলের দাগ ঠেকাতে বাড়তি তেল মুছুন",
+    "safety": false
+   },
+   {
+    "en": "Record the lubrication date and who did it",
+    "bn": "লুব্রিকেশনের তারিখ ও কে করেছেন লিখুন",
+    "safety": false
+   }
+  ]
+ },
+ {
+  "id": "needleinspect",
+  "title": {
+   "en": "Needle & sinker inspection",
+   "bn": "সুই ও সিঙ্কার পরিদর্শন"
+  },
+  "items": [
+   {
+    "en": "Stop and isolate the machine before inspection",
+    "bn": "পরিদর্শনের আগে মেশিন বন্ধ ও আইসোলেট করুন",
+    "safety": true
+   },
+   {
+    "en": "Check for bent hooks, sticking latches and worn butts",
+    "bn": "বাঁকা হুক, আটকানো ল্যাচ ও ক্ষয়া বাট দেখুন",
+    "safety": false
+   },
+   {
+    "en": "Check sinkers for wear, bends and burrs",
+    "bn": "সিঙ্কারে ক্ষয়, বাঁক ও বার দেখুন",
+    "safety": false
+   },
+   {
+    "en": "Replace damaged parts with the correct type and record the position",
+    "bn": "ক্ষতিগ্রস্ত অংশ সঠিক ধরনের দিয়ে বদলান এবং অবস্থান লিখুন",
+    "safety": false
+   },
+   {
+    "en": "Count and record replaced needles",
+    "bn": "বদলানো সুই গুনে লিখুন",
+    "safety": false
+   }
+  ]
+ }
+]

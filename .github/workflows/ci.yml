@@ -1,0 +1,32 @@
+name: Validate web app
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    name: Check, test and build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then npm ci --no-audit --no-fund; else echo "::warning::package-lock.json missing - running npm install. Commit the generated lockfile."; npm install --no-audit --no-fund; fi
+      - name: Static checks (imports, JSON, translations)
+        run: npm run check
+      - name: Automated tests
+        run: npm test
+      - name: Build web app
+        run: npm run build
+      - name: Verify build output
+        run: node scripts/check.mjs --dist
+      - name: Upload web build
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-dist
+          path: dist
+          retention-days: 14
